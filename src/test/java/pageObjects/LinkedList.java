@@ -12,6 +12,7 @@ public class LinkedList extends BaseClass
 	public LinkedList()
 	{
 		
+	
 		PageFactory.initElements(driver, this);
 	}
 	
