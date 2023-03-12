@@ -1,5 +1,6 @@
 package stepDefinition;
 
+import java.io.IOException;
 import java.time.Duration;
 import org.testng.Assert;
 import io.cucumber.java.en.Given;
@@ -31,19 +32,20 @@ public class LoginStepDefinitions extends BaseClass
 	}
 
 	@When("^I click Login button$")
-	public void i_click_login_button() 
+	public void i_click_login_button() throws IOException 
 	{
 		le.clickSubmit();
+		Screenshot("Login Page");
 	}
 
 	@Then("Success message {string} is displayed")
-	public void success_message_is_displayed(String message) 
+	public void success_message_is_displayed(String message) throws IOException 
 	{
-		Assert.assertEquals(le.retrieveMsg(), message);
+		Assert.assertEquals(le.retrieveMsg(), message);		
 	}
 
 	@Then("Error message {string} is displayed")
-	public void error_message_is_displayed(String message) 
+	public void error_message_is_displayed(String message) throws IOException 
 	{
 		Assert.assertEquals(le.retrieveMsg(), message);
 	}
