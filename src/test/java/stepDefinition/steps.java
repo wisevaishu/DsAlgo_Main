@@ -12,9 +12,14 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.*;
 import pageObjects.validLogin;
+import utilities.LoggerLoad;
 
 public class steps extends BaseClass
 {			
+	steps()
+	{
+		array = new Array();
+	}
 	//Linked List
 	@Given("Click Linked list start button")
 	public void click_linked_list_start_button() 
@@ -63,6 +68,8 @@ public class steps extends BaseClass
 	}
 	
 	// Stack
+	
+	
 	@Given("The user clicks on Get Started tab of stack box")
 	public void the_user_clicks_on_get_started_tab_of_stack_box()  
 	{				
@@ -108,6 +115,227 @@ public class steps extends BaseClass
 	@Then("The user should be getting run result")
 	public void the_user_should_be_getting_run_result() 
 	{
-		logger.info("Run Python Program Succesfully at Stack - Operations in Stack Page");		
+		LoggerLoad.info("Run Python Program Succesfully at Stack - Operations in Stack Page");		
 	}
+	//Array
+	
+	
+	
+	//@Given("I enter username and password")
+	//public void i_enter_username_and_password() {
+		//array= new Array();
+		//array=
+	    
+	//}
+	/*@Given("I enter username and password")
+	public void i_enter_username_and_password() {
+		
+		array.SetUsername("sucithracj@gmail.com");
+		
+		array.SetPassword("suci@1993");
+	   
+	}*/
+	@Given("The user click on the GetSTarted button in Array")
+	public void the_user_click_on_the_get_s_tarted_button_in_array() {
+
+		array.SelectArrays();
+		
+	}
+
+	@Then("Open Array page")
+	public void open_array_page() {
+	 
+		Assert.assertEquals(driver.getTitle(), "Array");
+	}
+
+	@Given("The user click on the ArraysInPython")
+	public void the_user_click_on_the_arrays_in_python() {
+		
+	   array.SelectArraysInPython();
+	}
+
+	@Then("the User able to navigate about ArraysInPython")
+	public void the_user_able_to_navigate_about_arrays_in_python() {
+	   
+		Assert.assertEquals(driver.getTitle(), " ArraysInPython");
+	}
+
+	@Given("the user click on the Try here button")
+	public void the_user_click_on_the_try_here_button() {
+	    
+		array.ClickTryHere();
+	}
+
+	@Then("the user directed to text editor box of ArraysInPython")
+	public void the_user_directed_to_text_editor_box_of_arrays_in_python() {
+	    
+		Assert.assertEquals(driver.getTitle(), "Assessment");
+	}
+	
+	@When("the user enter valid python code for Array in the text editor box")
+	public void the_user_enter_valid_python_code_for_array_in_the_text_editor_box() {
+
+		String code1 = "print 'Hello from Arrays'";
+		   array.PrintCode(code1);
+	}
+
+	@When("click the run button")
+	public void click_the_run_button() throws InterruptedException {
+	   array.run();
+	   Thread.sleep(3000);
+	}
+
+	@Then("the user gets the run result")
+	public void the_user_gets_the_run_result() {
+	   
+
+		LoggerLoad.info("Run Python Program Succesfully at Stack - Operations in Stack Page");	
+	}
+
+	@Given("The user click on the ArraysUsingList")
+	public void the_user_click_on_the_arrays_using_list() {
+		
+		array.SelectArraysUsingList();
+	  	}
+
+	@Then("Open ArraysUsingList page")
+	public void open_arrays_using_list_page() {
+		Assert.assertEquals(driver.getTitle(), "ArraysUsingList");
+		
+	   	}
+	@When("the user enter valid python code for  ArraysUsingList in the text editor box")
+	public void the_user_enter_valid_python_code_for_arrays_using_list_in_the_text_editor_box() {
+	    
+		String code2 = "print 'Hello from ArraysUsingList'";
+		array.PrintCode(code2);
+	}
+	@Then("the user directed to text editor box of ArraysUsingList")
+	public void the_user_directed_to_text_editor_box_of_arrays_using_list() {
+		Assert.assertEquals(driver.getTitle(), "ArraysUsingList");
+		
+	    	}
+
+	@Given("The user click on the BasicOperationsinLists")
+	public void the_user_click_on_the_basic_operationsin_lists() {
+		
+		array.BasicOperationsinLists();
+	   	}
+
+	@Then("Open BasicOperationsinLists page")
+	public void open_basic_operationsin_lists_page() {
+		
+		Assert.assertEquals(driver.getTitle(), "BasicOperationsinLists");
+		
+	}
+	
+	@When("the user enter valid python code in for BasicOperationsinLists  the text editor box")
+	public void the_user_enter_valid_python_code_in_for_basic_operationsin_lists_the_text_editor_box() {
+	    
+		String code3 = "print 'Hello BasicOperationsinLists'";
+		array.PrintCode(code3);
+		
+	}
+    
+
+	@Then("the user directed to text editor box of BasicOperationsinLists")
+	public void the_user_directed_to_text_editor_box_of_basic_operationsin_lists() {
+		
+		Assert.assertEquals(driver.getTitle(), "BasicOperationsinLists");
+		
+	}
+
+	@Given("The user click on the ApplicationsOfArray")
+	public void the_user_click_on_the_applications_of_array() {
+		
+		array.ApplicationsOfArray();
+		
+	   	}
+
+	@Then("Open ApplicationsOfArray page")
+	public void open_applications_of_array_page() {
+		
+		Assert.assertEquals(driver.getTitle(), "ApplicationsOfArray");
+	   
+	}
+	
+	@When("the user enter valid python code for ApplicationsOfArray in the text editor box")
+	public void the_user_enter_valid_python_code_for_applications_of_array_in_the_text_editor_box() {
+	   
+		
+		String code4 = "print 'Hello ApplicationsOfArray'";
+		array.PrintCode(code4);	
+		
+	}
+	
+
+	@Then("the user directed to text editor box of  ApplicationsOfArray")
+	public void the_user_directed_to_text_editor_box_of_applications_of_array() {
+		
+		Assert.assertEquals(driver.getTitle(), "ApplicationsOfArray");
+		   
+		
+	   	}
+
+	@Given("The user click on the  PracticeQuestions")
+	public void the_user_click_on_the_practice_questions() {
+		
+		array.PQinArray();
+		
+	   	}
+
+	@Then("Open PracticeQuestions page")
+	public void open_practice_questions_page() {
+		
+		Assert.assertEquals(driver.getTitle(), "PracticeQuestions");
+		
+	   	}
+
+	@Given("The user click on the SquaresOfaSortedArray")
+	public void the_user_click_on_the_squares_ofa_sorted_array() {
+		
+	array.SquaresOfaSortedArray();	
+		
+	    	}
+
+	@Then("Open SquaresOfaSortedArray page")
+	public void open_squares_ofa_sorted_array_page() {
+		
+		
+		Assert.assertEquals(driver.getTitle(), "PracticeQuestions");
+		
+		}
+	
+	
+	@When("the user enter valid python code for  PracticeQuestions in the text editor box")
+	public void the_user_enter_valid_python_code_for_practice_questions_in_the_text_editor_box() {
+	   
+		String code5 = "print 'Hello SquaresOfaSortedArray'";
+		array.PrintCode(code5);
+		
+	}
+
+
+	@Then("the user directed to text editor box of SquaresOfaSortedArray")
+	public void the_user_directed_to_text_editor_box_of_squares_ofa_sorted_array() {
+		
+		Assert.assertEquals(driver.getTitle(), "SquaresOfaSortedArray");
+		
+	   	}
 }
+
+
+
+	
+	
+	
+
+	
+	
+
+	
+
+	
+
+	
+
+

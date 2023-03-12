@@ -12,6 +12,7 @@ public class testRun
 		features = {"src/test/resources/Features/LinkedList.feature"
 					,"src/test/resources/Features/stack.feature"
 					,"src/test/resources/Features/login.feature"
+					,"src/test/resources/Features/array.feature"
 				},
 		plugin = {"pretty", "html:target/SystemTestReports/index.html", "json:target/SystemTestReports/json/report.json", 
 				  "junit:target/SystemTestReports/junit/report.xml"},

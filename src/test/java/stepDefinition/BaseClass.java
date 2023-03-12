@@ -3,6 +3,8 @@ package stepDefinition;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
 import utilities.*;
 import io.cucumber.java.Before;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -21,6 +23,7 @@ public class BaseClass
 	public String code =readconfig.getCode();
 		
 	public dataStructures ds;
+	public Array array;
 	public validLogin vl;
 	public stack s;
 	public LinkedList ll;
@@ -33,10 +36,12 @@ public class BaseClass
 	{		
 		if(br.equals("chrome"))
 		{
-			logger.info("Ds-Algo Project" + BaseClass.class);
+			LoggerLoad.info("Ds-Algo Project" + BaseClass.class);
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
 			
+			ChromeOptions chromeOptions = new ChromeOptions();
+			chromeOptions.addArguments("--remote-allow-origins=*");
+			driver = new ChromeDriver(chromeOptions);
 		}		
 		driver.get(baseURL);
 	}
