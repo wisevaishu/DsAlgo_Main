@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+
+import org.apache.logging.log4j.core.tools.picocli.CommandLine.Help.Column;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -15,7 +17,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcelReader 
 {
-	public static int totalRow;
+	public static int totalRow, totalCol;
 
 	public List<Map<String, String>> getData(String excelFilePath, String sheetName)
 			throws InvalidFormatException, IOException 
@@ -30,18 +32,22 @@ public class ExcelReader
 	{
 		Row row;
 		Cell cell;
+
 		totalRow = sheet.getLastRowNum();
+		int totalColumn = sheet.getRow(sheet.getFirstRowNum()).getLastCellNum();
+
 		List<Map<String, String>> excelRows = new ArrayList<Map<String, String>>();
+
 		for (int currentRow = 1; currentRow <= totalRow; currentRow++) 
 		{
 			row = sheet.getRow(currentRow);
-			int totalColumn = row.getLastCellNum();
 			LinkedHashMap<String, String> columnMapdata = new LinkedHashMap<String, String>();
 			for (int currentColumn = 0; currentColumn < totalColumn; currentColumn++) 
 			{
 				cell = row.getCell(currentColumn);
-				String columnHeaderName = sheet.getRow(sheet.getFirstRowNum()).getCell(currentColumn).getStringCellValue();
-				columnMapdata.put(columnHeaderName, cell.getStringCellValue());
+				String columnHeaderName = sheet.getRow(sheet.getFirstRowNum()).getCell(currentColumn)
+						.getStringCellValue();
+				columnMapdata.put(columnHeaderName, (cell == null) ? "" : cell.getStringCellValue());
 			}
 			excelRows.add(columnMapdata);
 		}

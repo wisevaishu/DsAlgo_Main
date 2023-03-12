@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.apache.commons.lang3.RandomStringUtils;
 
 public class testUtil 
 {
@@ -30,4 +31,19 @@ public class testUtil
 		ele.clear();
 		ele.sendKeys(txt);
 	}
+	
+	public Boolean JSCheckValidity(WebDriver driver, WebElement ele)
+	{
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		Boolean is_valid = (Boolean) js.executeScript("return arguments[0].checkValidity();", ele);
+		return is_valid;
+	}
+	
+	public String UserData()
+	{
+		String Random_USERNAME = RandomStringUtils.randomAlphanumeric(15);
+		return Random_USERNAME;
+	}
+	
+	
 }

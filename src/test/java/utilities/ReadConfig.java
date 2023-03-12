@@ -15,8 +15,7 @@ Properties pro;
 		{			
 			FileInputStream fis = new FileInputStream(src);
 			pro = new Properties();
-			pro.load(fis);
-			LoggerLoad.info("Loading File Input Stream - Config.properties");		
+			pro.load(fis);				
 		}		
 		catch (Exception e)
 		{
@@ -52,6 +51,12 @@ Properties pro;
 	public String getCode()
 	{
 		String code = pro.getProperty("code");
+		return code;
+	}	
+	
+	public String getRegistrationURL()
+	{
+		String code = pro.getProperty("registrationURL");
 		return code;
 	}	
 }

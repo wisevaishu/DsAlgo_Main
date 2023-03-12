@@ -9,15 +9,20 @@ public class testRun
 {
 	@CucumberOptions
 	(		
-		features = {"src/test/resources/Features/LinkedList.feature"
-					,"src/test/resources/Features/stack.feature"
-					,"src/test/resources/Features/login.feature"
-				},
-		plugin = {"pretty", "html:target/SystemTestReports/index.html", "json:target/SystemTestReports/json/report.json", 
-				  "junit:target/SystemTestReports/junit/report.xml"},
+		features = 
+			{
+				"src/test/resources/Features/LinkedList.feature"
+				,"src/test/resources/Features/login.feature",
+				"src/test/resources/Features/registerExcel.feature",
+				"src/test/resources/Features/Home.feature"	
+			},
+		plugin = {"pretty", "html:target/SystemTestReports/index.html",  
+				  "junit:target/SystemTestReports/junit/report.xml",
+				 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"				  
+				  },
 		monochrome=true,	
 		dryRun=false,
-		glue= "stepDefinition"
+		glue= {"stepDefinition"}		
 	)
 	
 	public class TestRun extends AbstractTestNGCucumberTests

@@ -1,40 +1,27 @@
 package pageObjects;
 
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.By;
+import stepDefinition.BaseClass;
 
-public class dataStructures extends stepDefinition.BaseClass 
-{
-	public WebDriver dsdriver;
-	
-	public dataStructures (WebDriver rdriver)
-	{
-		dsdriver=rdriver;
-		PageFactory.initElements(rdriver, this);
+public class dataStructures extends BaseClass 
+{	
+	public dataStructures ()
+	{		
+		PageFactory.initElements(driver, this);
 	}
 	
-	By GetStarted=By.xpath("//button[@class=\"btn\"]");
-	By Signin=By.xpath("//a[@href=\"/login\"]");
-	By Username=By.id("id_username");
-	By Password=By.id("id_password");
-	By Login=By.xpath("//input[@value=\"Login\"]");
-	By DSGetStarted= By.xpath("//a[@href=\"data-structures-introduction\"]");
-	By TimeComplexity=By.xpath("//a[@href=\"time-complexity\"]");
-	By PracticeQuestions=By.xpath("//li[@class=\"list-group-item list-group-item-light \"]");
-	By TryHere=By.xpath("//a[@href=\"/tryEditor\"]");
-	By PrintCode=By.id("editor");
+	@FindBy (xpath="//h5[contains(text(), 'Data Structures-Introduction')]/following::a[1]") WebElement dsGetStartedButton;
+	@FindBy (xpath="//a[@href='time-complexity']")WebElement dsTimeComplexityLink;	
 	
-	public void test()
+	public void setGetStarted() 
 	{
-		dsdriver.findElement(GetStarted).click();
-		dsdriver.findElement(Signin).click();
-		dsdriver.findElement(Username).sendKeys("sucithracj@gmail.com");
-		dsdriver.findElement(Password).sendKeys("suci@1993");
-		dsdriver.findElement(Login).click();
-		dsdriver.findElement(DSGetStarted).click();
-		dsdriver.findElement(TimeComplexity).click();
-		dsdriver.findElement(PracticeQuestions).click();
-		dsdriver.findElement(TryHere).click();
+		dsGetStartedButton.click();
+	}
+	
+	public void setTimeComplexityLinkClick() 
+	{
+		dsTimeComplexityLink.click();
 	}
 }
