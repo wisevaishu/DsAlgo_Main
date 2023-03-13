@@ -16,6 +16,7 @@ public class testRun
 				},
 		plugin = {"pretty", "html:target/SystemTestReports/index.html", "json:target/SystemTestReports/json/report.json", 
 				  "junit:target/SystemTestReports/junit/report.xml"},
+		tags = "@TagArray",
 		monochrome=true,	
 		dryRun=false,
 		glue= "stepDefinition"

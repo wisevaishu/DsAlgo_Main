@@ -5,14 +5,13 @@ Feature: Array
 
   
   Background: user logged into  DS Algo portal
-    Given I enter "sucithracj" and "suci@1993"
+    Given I enter "config_user" and "config_password"
     And I click Login button
- 
-
-  @TagArraysInPython
-  Scenario Outline:  The User able to navigate the operations on ArraysInPython
     Given The user click on the GetSTarted button in Array
     Then Open Array page
+ 
+  @TagArraysInPython
+  Scenario Outline:  The User able to navigate the operations on ArraysInPython
     Given The user click on the ArraysInPython 
     Then the User able to navigate about ArraysInPython
     Given the user click on the Try here button
@@ -32,7 +31,7 @@ Feature: Array
     Then the user gets the run result
     
     @TagBasicOperationsinLists
-     Scenario Outline:  The User able to navigate the BasicOperationsinLists 
+    Scenario Outline:  The User able to navigate the BasicOperationsinLists 
     Given The user click on the BasicOperationsinLists 
     Then Open BasicOperationsinLists page
     Given the user click on the Try here button
@@ -53,12 +52,11 @@ Feature: Array
     
     @TagPracticeQuestions
     Scenario Outline:  The User able to navigate the PracticeQuestions
-    Given The user click on the  PracticeQuestions
+    Given The user click on the ApplicationsOfArray 
+    And The user click on the  PracticeQuestions
     Then Open PracticeQuestions page
     Given The user click on the SquaresOfaSortedArray
     Then Open SquaresOfaSortedArray page
-    Given the user click on the Try here button
-    Then the user directed to text editor box of SquaresOfaSortedArray
     When the user enter valid python code for  PracticeQuestions in the text editor box
     And  click the run button
     Then the user gets the run result 

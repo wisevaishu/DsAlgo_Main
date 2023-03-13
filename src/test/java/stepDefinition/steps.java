@@ -16,9 +16,10 @@ import utilities.LoggerLoad;
 
 public class steps extends BaseClass
 {			
-	steps()
+	public steps()
 	{
 		array = new Array();
+		
 	}
 	//Linked List
 	@Given("Click Linked list start button")
@@ -157,7 +158,7 @@ public class steps extends BaseClass
 	@Then("the User able to navigate about ArraysInPython")
 	public void the_user_able_to_navigate_about_arrays_in_python() {
 	   
-		Assert.assertEquals(driver.getTitle(), " ArraysInPython");
+		Assert.assertEquals(driver.getTitle(), "Arrays in Python");
 	}
 
 	@Given("the user click on the Try here button")
@@ -200,7 +201,7 @@ public class steps extends BaseClass
 
 	@Then("Open ArraysUsingList page")
 	public void open_arrays_using_list_page() {
-		Assert.assertEquals(driver.getTitle(), "ArraysUsingList");
+		Assert.assertEquals(driver.getTitle(), "Arrays Using List");
 		
 	   	}
 	@When("the user enter valid python code for  ArraysUsingList in the text editor box")
@@ -211,7 +212,7 @@ public class steps extends BaseClass
 	}
 	@Then("the user directed to text editor box of ArraysUsingList")
 	public void the_user_directed_to_text_editor_box_of_arrays_using_list() {
-		Assert.assertEquals(driver.getTitle(), "ArraysUsingList");
+		Assert.assertEquals(driver.getTitle(), "Assessment");
 		
 	    	}
 
@@ -224,15 +225,17 @@ public class steps extends BaseClass
 	@Then("Open BasicOperationsinLists page")
 	public void open_basic_operationsin_lists_page() {
 		
-		Assert.assertEquals(driver.getTitle(), "BasicOperationsinLists");
+		Assert.assertEquals(driver.getTitle(), "Basic Operations in Lists");
 		
 	}
 	
 	@When("the user enter valid python code in for BasicOperationsinLists  the text editor box")
 	public void the_user_enter_valid_python_code_in_for_basic_operationsin_lists_the_text_editor_box() {
 	    
-		String code3 = "print 'Hello BasicOperationsinLists'";
-		array.PrintCode(code3);
+		//String code3 = "print 'Hello BasicOperationsinLists'";
+		//array.PrintCode(code3);
+		
+		array.RunPythonProgram();
 		
 	}
     
@@ -240,7 +243,7 @@ public class steps extends BaseClass
 	@Then("the user directed to text editor box of BasicOperationsinLists")
 	public void the_user_directed_to_text_editor_box_of_basic_operationsin_lists() {
 		
-		Assert.assertEquals(driver.getTitle(), "BasicOperationsinLists");
+		Assert.assertEquals(driver.getTitle(), "Assessment");
 		
 	}
 
@@ -254,7 +257,7 @@ public class steps extends BaseClass
 	@Then("Open ApplicationsOfArray page")
 	public void open_applications_of_array_page() {
 		
-		Assert.assertEquals(driver.getTitle(), "ApplicationsOfArray");
+		Assert.assertEquals(driver.getTitle(), "Applications of Array");
 	   
 	}
 	
@@ -271,7 +274,7 @@ public class steps extends BaseClass
 	@Then("the user directed to text editor box of  ApplicationsOfArray")
 	public void the_user_directed_to_text_editor_box_of_applications_of_array() {
 		
-		Assert.assertEquals(driver.getTitle(), "ApplicationsOfArray");
+		Assert.assertEquals(driver.getTitle(), "Assessment");
 		   
 		
 	   	}
@@ -286,7 +289,7 @@ public class steps extends BaseClass
 	@Then("Open PracticeQuestions page")
 	public void open_practice_questions_page() {
 		
-		Assert.assertEquals(driver.getTitle(), "PracticeQuestions");
+		Assert.assertEquals(driver.getTitle(), "Practice Questions");
 		
 	   	}
 
@@ -301,7 +304,7 @@ public class steps extends BaseClass
 	public void open_squares_ofa_sorted_array_page() {
 		
 		
-		Assert.assertEquals(driver.getTitle(), "PracticeQuestions");
+		Assert.assertEquals(driver.getTitle(), "Assessment");
 		
 		}
 	
@@ -313,14 +316,6 @@ public class steps extends BaseClass
 		array.PrintCode(code5);
 		
 	}
-
-
-	@Then("the user directed to text editor box of SquaresOfaSortedArray")
-	public void the_user_directed_to_text_editor_box_of_squares_ofa_sorted_array() {
-		
-		Assert.assertEquals(driver.getTitle(), "SquaresOfaSortedArray");
-		
-	   	}
 }
 
 
