@@ -1,1661 +1,195 @@
-[INFO ]2023-03-03 21:51:40.964[main]LoggerLoad-Ds-Algo Project
-[INFO ]2023-03-03 21:51:53.987[main]LoggerLoad-URL is opened
-[INFO ]2023-03-03 22:09:14.636[main]LoggerLoad-Ds-Algo Project
-[INFO ]2023-03-03 22:09:20.586[main]LoggerLoad-URL is opened
-[INFO ]2023-03-03 22:09:20.890[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-03 22:09:21.739[main]LoggerLoad-In Login Page
-[INFO ]2023-03-03 22:13:52.274[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-03 22:13:52.277[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-03 22:13:59.000[main]LoggerLoad-URL is opened
-[INFO ]2023-03-03 22:13:59.285[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-03 22:14:00.270[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:11:53.363[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:11:53.375[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:11:53.375[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:12:00.246[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:12:00.743[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:12:01.048[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:12:01.904[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:12:01.945[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:12:01.946[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:12:01.946[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:12:05.485[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:12:06.305[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:12:06.624[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:12:07.471[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:18:05.334[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:18:05.340[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:18:05.340[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:18:10.771[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:18:11.183[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:18:11.454[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:18:12.362[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:18:12.407[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:18:12.433[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:19:21.344[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:19:21.349[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:23:31.983[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:24:07.030[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:24:30.303[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:24:58.817[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:25:07.080[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:26:28.629[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:26:47.181[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:30:30.256[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:30:30.261[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:30:30.261[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:30:35.404[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:30:35.857[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:30:36.154[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:30:37.000[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:30:37.043[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:30:37.070[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:33:46.859[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:33:46.863[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:33:46.863[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:33:52.281[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:33:52.802[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:33:53.087[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:33:54.174[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:33:54.213[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:33:54.241[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:25.450[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:25.453[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:37:25.454[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:37:31.488[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:31.860[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:37:32.160[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:37:33.003[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:37:33.031[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:33.052[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:33.052[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:37:33.052[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:37:36.639[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:37:36.978[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:37:37.281[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:37:38.159[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:37:38.181[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:41:55.982[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:41:55.986[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:41:55.987[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:42:01.565[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:42:01.939[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:42:02.235[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:42:03.148[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:42:03.192[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:42:03.211[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:43:30.770[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:43:30.775[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:43:30.776[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:43:36.040[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:43:36.433[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:43:36.728[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:43:37.576[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:43:37.626[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:43:37.646[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:47:25.241[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:47:25.245[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:47:25.246[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:47:30.663[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:47:31.168[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:47:31.440[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:47:32.305[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:47:32.340[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:47:32.359[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:47:32.360[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:59:01.716[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:59:01.721[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 00:59:01.721[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 00:59:06.698[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:59:07.081[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 00:59:07.390[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 00:59:08.239[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 00:59:08.280[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:59:08.300[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 00:59:08.301[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:01:01.947[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:01:01.950[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:01:01.951[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:01:07.969[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:01:08.560[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:01:08.877[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:01:09.855[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:01:09.903[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:01:09.936[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:01:09.937[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:02:03.461[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:02:03.470[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:02:03.471[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:02:08.894[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:02:09.282[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:02:09.561[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:02:10.400[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:02:10.439[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:02:10.460[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:02:10.461[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:05:11.769[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:05:11.773[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:05:11.774[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:05:17.018[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:05:17.390[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:05:17.695[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:05:18.687[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:05:18.732[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:05:18.757[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:05:18.757[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:09:57.150[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:09:57.154[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:09:57.155[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:10:01.928[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:10:02.296[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:10:02.604[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:10:03.461[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:10:03.503[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:10:03.522[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:10:03.523[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:14:50.746[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:14:50.750[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:14:50.751[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:14:57.018[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:14:57.488[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:14:57.787[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:14:58.654[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:14:58.695[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:14:58.713[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:14:58.713[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:16:35.392[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:16:35.396[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:16:35.397[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:16:40.880[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:16:41.243[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:16:41.597[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:16:42.444[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:16:42.485[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:16:42.504[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:16:42.506[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:19:28.086[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:19:28.090[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:19:28.091[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:19:33.220[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:19:33.635[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:19:33.976[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:19:34.846[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:19:34.888[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:19:34.910[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:19:34.911[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:22:42.188[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:22:42.192[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:22:42.192[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:22:47.622[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:22:47.985[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:22:48.304[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:22:49.200[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:22:49.243[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:22:49.272[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:22:49.273[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:24:14.377[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:24:14.381[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:24:14.382[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:24:19.648[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:24:20.027[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:24:20.374[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:24:21.182[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:24:21.224[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:24:21.244[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:24:21.245[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:29:47.727[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:29:47.748[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:29:47.749[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:29:54.571[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:29:54.964[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:29:55.244[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:29:56.131[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:29:56.175[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:29:56.196[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:29:56.197[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:33:16.481[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:33:16.486[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:33:16.487[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:33:24.337[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:33:24.820[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:33:25.086[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:33:26.028[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:33:26.076[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:33:26.106[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:33:26.106[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:38:09.118[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:38:09.123[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:38:09.123[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:38:15.609[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:38:15.977[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:38:16.244[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:38:17.083[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:38:17.126[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:38:17.150[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:38:17.151[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:04.998[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:05.003[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:40:05.004[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:40:10.088[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:10.783[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:40:11.031[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:40:11.869[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:40:11.912[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:11.932[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:11.933[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:42.497[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:42.502[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:40:42.503[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:40:48.239[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:48.598[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:40:48.906[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:40:49.767[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:40:49.803[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:49.821[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:40:49.822[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:43:37.269[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:43:37.272[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:43:37.273[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:43:42.328[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:43:42.696[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:43:43.008[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:43:43.889[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:43:43.931[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:43:43.955[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:43:43.955[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:46:13.970[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:46:13.975[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 01:46:13.976[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 01:46:19.487[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:46:19.959[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 01:46:20.280[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 01:46:21.116[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 01:46:21.165[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:46:21.185[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 01:46:21.186[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:29:55.748[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:29:55.766[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 22:29:55.766[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 22:30:10.308[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:30:10.714[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 22:30:10.978[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 22:30:11.838[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 22:30:11.876[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:30:11.895[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:30:11.896[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:30:13.968[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-05 22:31:20.393[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:31:20.397[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 22:31:20.398[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 22:31:25.917[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:31:26.318[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 22:31:26.628[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 22:31:27.492[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 22:31:27.530[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:31:27.558[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:31:27.559[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 22:31:30.747[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-05 23:27:05.052[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:05.052[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:05.052[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:05.052[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:05.160[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:27:05.161[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:27:05.162[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:27:05.162[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:27:05.163[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:14.543[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:15.569[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:27:16.349[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:27:16.361[TestNG-PoolService-2]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:27:16.654[TestNG-PoolService-0]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:27:17.551[TestNG-PoolService-0]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:29:49.223[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:29:49.227[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:29:49.227[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:29:56.211[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:29:56.579[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:29:56.939[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:29:57.956[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:29:58.001[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:29:58.037[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:29:58.037[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:29:58.037[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:30:04.609[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:30:04.931[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:30:05.192[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:30:06.132[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:30:06.161[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:30:06.162[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:30:09.614[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-05 23:31:32.912[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:32.912[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:32.916[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:31:32.917[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:31:32.918[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:32.912[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:32.921[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:31:32.912[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:32.921[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:31:32.922[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:42.471[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:43.726[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:31:44.294[TestNG-PoolService-2]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:31:44.306[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:31:44.616[TestNG-PoolService-2]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:31:45.527[TestNG-PoolService-2]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:32:08.209[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:08.212[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:32:08.213[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:32:14.784[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:15.145[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:32:15.462[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:32:16.354[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:32:16.406[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:16.407[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:18.641[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Stack Page
-[INFO ]2023-03-05 23:32:18.660[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:18.661[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:32:18.662[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:32:23.914[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:24.226[main]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:32:24.549[main]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:32:25.340[main]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:32:25.371[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:25.372[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:32:28.789[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-05 23:35:44.539[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:44.539[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:44.542[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:35:44.539[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:44.543[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:35:44.543[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:35:44.543[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:44.543[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:35:44.539[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:44.545[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:51.377[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:51.732[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:35:52.230[TestNG-PoolService-2]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:35:52.241[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:35:52.512[TestNG-PoolService-2]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:35:53.406[TestNG-PoolService-2]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:41:45.229[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:41:45.229[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:41:45.232[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:41:45.232[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:41:45.232[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:41:45.232[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:41:54.851[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:41:54.943[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:41:55.652[TestNG-PoolService-1]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:41:55.667[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:41:55.960[TestNG-PoolService-1]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:41:56.926[TestNG-PoolService-1]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:41:56.929[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:42:00.412[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-05 23:50:27.367[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:50:27.367[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:50:27.370[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:50:27.370[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-05 23:50:27.371[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:50:27.371[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-05 23:50:34.327[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:50:35.243[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:50:35.940[TestNG-PoolService-1]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:50:35.942[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-05 23:50:36.217[TestNG-PoolService-1]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-05 23:50:37.075[TestNG-PoolService-1]LoggerLoad-In Login Page
-[INFO ]2023-03-05 23:50:37.077[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-05 23:50:40.824[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 00:00:31.359[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:00:31.359[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:00:31.363[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-06 00:00:31.363[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.steps
-[INFO ]2023-03-06 00:00:31.364[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:00:31.364[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:00:38.190[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:00:38.830[TestNG-PoolService-1]LoggerLoad-URL is opened
-[INFO ]2023-03-06 00:00:39.156[TestNG-PoolService-1]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-06 00:00:39.241[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:00:39.777[TestNG-PoolService-0]LoggerLoad-URL is opened
-[INFO ]2023-03-06 00:00:40.066[TestNG-PoolService-0]LoggerLoad-Clicked Sign In
-[INFO ]2023-03-06 00:00:40.919[TestNG-PoolService-0]LoggerLoad-In Login Page
-[INFO ]2023-03-06 00:00:40.923[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:00:43.672[TestNG-PoolService-0]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 00:05:19.779[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:05:19.779[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:05:19.782[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:05:19.782[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:05:27.368[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:05:27.938[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:05:29.611[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:05:32.854[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 00:11:08.907[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:11:08.907[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:11:08.924[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:11:08.924[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:11:19.754[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:11:19.764[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:11:21.859[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:11:25.258[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 00:18:06.856[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:18:06.856[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:18:06.859[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:18:06.859[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:18:15.004[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:18:15.237[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:18:17.280[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:18:19.675[TestNG-PoolService-0]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 00:30:33.286[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:33.290[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:30:39.126[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:40.760[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:42.801[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 00:30:42.836[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:42.836[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:30:47.423[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:48.881[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:30:52.255[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 00:47:42.552[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:47:42.556[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:47:48.509[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:47:50.621[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:47:50.625[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:47:51.728[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:47:51.729[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:48:20.592[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:20.592[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:20.596[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:48:20.592[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:20.597[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 00:48:20.592[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:20.599[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:27.364[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:28.549[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:34.941[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 00:48:34.942[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:12.705[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:12.705[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:12.705[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:12.715[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 11:51:12.705[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:12.714[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 11:51:12.717[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:29.924[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:51:32.181[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.705[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.705[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.727[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 11:55:09.725[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 11:55:09.705[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.705[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.732[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:55:09.732[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:56:08.135[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 11:56:08.145[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.409[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.409[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.409[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.412[TestNG-PoolService-2]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:00:50.409[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.412[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:00:50.414[TestNG-PoolService-3]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:50.414[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:58.695[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:00:59.083[TestNG-PoolService-2]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:11:42.934[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:11:42.934[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:11:42.939[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:11:42.939[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:11:54.458[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:11:54.461[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:11:57.088[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:12:04.511[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 12:15:15.041[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:15.041[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:15.044[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:15:15.044[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:15:22.979[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:23.726[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:24.964[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:30.736[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 12:15:47.774[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:15:47.774[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:16:20.029[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:17:23.595[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:18:05.820[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:21.013[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:21.013[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:21.016[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:24:21.016[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:24:29.708[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:29.711[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:30.939[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:24:35.845[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 12:25:25.546[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:25:25.546[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:25:25.549[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:25:25.549[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 12:25:33.269[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:25:33.274[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:25:34.477[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 12:25:40.272[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 13:23:57.121[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:23:57.121[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:23:57.124[TestNG-PoolService-1]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:23:57.124[TestNG-PoolService-0]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:24:06.956[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:24:06.960[TestNG-PoolService-0]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:24:08.176[TestNG-PoolService-1]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:24:11.787[TestNG-PoolService-1]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 13:29:34.290[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:29:34.295[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:29:40.224[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:29:41.455[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:29:43.791[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 13:29:43.825[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:29:43.825[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:29:48.676[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:29:50.121[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:32.021[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:32.024[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:30:37.684[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:39.198[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:43.431[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 13:30:43.457[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:43.458[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 13:30:48.096[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 13:30:49.445[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:36.536[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:36.541[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:25:43.305[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:44.500[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:48.967[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 16:25:49.477[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:49.477[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:25:54.220[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:25:55.636[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:17.267[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:17.271[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:27:22.589[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:23.821[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:26.284[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 16:27:26.698[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:26.699[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:27:34.287[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:35.517[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:27:38.882[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 16:51:59.650[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:51:59.653[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:05.507[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:05.843[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:05.844[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:10.328[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:11.774[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:19.512[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 16:52:19.840[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:19.840[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:24.145[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:24.454[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:24.455[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:30.053[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:31.421[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:41.790[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:41.790[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:46.029[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:46.401[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:46.402[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:52:56.438[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:52:57.631[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:08.018[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:08.018[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:53:12.292[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:12.623[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:12.624[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:53:19.033[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:20.250[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:31.538[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:31.539[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:53:35.787[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:36.059[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:36.059[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:53:52.063[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:53:53.446[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:54:03.817[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:54:03.818[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:54:15.821[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:54:15.821[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:10.889[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:10.893[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:16.506[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:16.840[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:16.841[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:20.935[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:22.149[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:25.720[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 16:55:26.063[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:26.063[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:30.324[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:30.588[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:30.589[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:35.397[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:36.719[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:47.179[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:47.180[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:52.159[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:52.521[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:52.521[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:55:58.787[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:55:59.894[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:10.329[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:10.329[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:56:15.417[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:15.803[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:15.806[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:56:22.044[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:23.214[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:33.604[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:33.604[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:56:39.259[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:39.600[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:39.600[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:56:45.990[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:47.571[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:53.722[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:53.722[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 16:56:57.404[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 16:56:57.405[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:23:47.020[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:23:47.029[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:23:47.030[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:23:55.540[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:23:56.978[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:23:59.966[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 19:24:00.653[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:00.655[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:00.655[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:05.619[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:06.759[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:13.795[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:14.142[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:15.606[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:15.607[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:15.608[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:21.023[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:22.252[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:27.458[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:27.803[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:38.720[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:38.721[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:38.721[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:45.881[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:47.410[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:24:55.366[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:24:55.716[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:09.502[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:09.503[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:09.503[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:25:18.331[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:19.503[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:25:25.465[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:25.756[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:36.721[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:36.725[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:36.726[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:25:44.205[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:45.805[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:25:53.951[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 19:27:33.332[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:33.341[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:33.342[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:27:39.313[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:40.480[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:42.848[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 19:27:43.242[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:43.244[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:43.244[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:27:47.441[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:48.575[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:27:52.140[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 19:58:26.929[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:26.934[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:58:32.853[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:32.857[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:33.207[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:34.123[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:34.123[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:58:38.650[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:38.653[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:38.994[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:40.096[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:40.097[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:58:44.359[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:44.361[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:44.667[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:45.520[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:45.521[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:58:50.389[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:50.392[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:50.712[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:51.676[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:51.677[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:58:55.449[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:55.450[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:55.767[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:56.743[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:58:56.744[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 19:59:00.601[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:59:00.603[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 19:59:00.920[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:28.422[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:28.427[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:00:33.676[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:33.679[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:34.004[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:34.647[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:44.903[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:44.903[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:00:48.905[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:48.907[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:49.219[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:50.569[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:50.570[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:00:54.644[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:54.646[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:54.934[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:55.723[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:55.724[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:00:59.503[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:59.504[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:00:59.746[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:00.525[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:00.526[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:01:04.359[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:04.360[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:04.621[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:05.736[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:05.736[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:01:09.726[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:09.727[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:10.015[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:01:10.630[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:02.895[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:02.898[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:08.162[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:08.166[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:08.481[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:09.107[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:19.432[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:19.432[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:23.390[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:23.392[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:23.683[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:24.939[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:24.940[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:28.973[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:28.974[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:29.311[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:30.332[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:30.332[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:34.393[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:34.393[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:34.654[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:35.430[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:35.431[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:39.384[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:39.386[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:39.721[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:40.789[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:40.790[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:02:44.611[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:44.611[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:44.883[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:02:45.592[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:04.675[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:04.678[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:13:20.289[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:20.295[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:13:25.667[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:25.672[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:26.000[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:26.859[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:29.231[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 20:13:29.562[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:29.563[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:13:33.574[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:33.575[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:33.914[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:34.737[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:37.885[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 20:13:53.888[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:53.892[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:13:59.147[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:59.150[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:13:59.472[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:00.314[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:02.616[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 20:14:02.991[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:02.992[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:14:07.368[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:07.369[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:14:11.874[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:11.874[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:14:15.972[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:15.973[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:14:20.037[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:20.038[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:14:23.976[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:23.978[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:24.285[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:25.086[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:14:28.240[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 20:17:17.649[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:17.654[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:23.032[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:23.036[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:23.368[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:24.264[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:26.691[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 20:17:26.954[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:26.955[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:30.648[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:30.650[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:30.981[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:32.146[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:32.146[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:36.033[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:36.034[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:36.340[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:37.142[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:37.143[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:41.073[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:41.076[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:41.415[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:42.303[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:42.303[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:46.350[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:46.353[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:46.686[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:47.452[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:47.453[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:17:51.298[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:51.299[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:51.602[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:52.458[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:17:55.654[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 20:22:11.421[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:11.425[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:16.294[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:16.297[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:16.647[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:17.540[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:17.541[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:19.957[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 20:22:20.259[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:20.260[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:24.512[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:24.513[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:24.800[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:26.172[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:26.172[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:30.269[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:30.271[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:30.635[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:31.624[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:31.624[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:35.500[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:35.501[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:35.823[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:36.616[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:36.617[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:41.869[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:41.870[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:42.222[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:43.078[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:43.080[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 20:22:47.332[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:47.334[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:47.650[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:48.487[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:48.488[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 20:22:51.772[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-06 22:07:59.889[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:07:59.898[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:08.286[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:08.293[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:08.690[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:09.689[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:09.690[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:12.071[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-06 22:08:12.786[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:12.787[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:16.978[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:16.980[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:17.315[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:18.514[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:18.514[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:22.323[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:22.325[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:22.679[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:23.612[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:23.613[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:27.916[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:27.918[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:28.229[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:29.154[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:29.155[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:32.795[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:32.796[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:33.144[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:34.113[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:34.114[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-06 22:08:37.701[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:37.702[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:38.046[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:38.885[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:38.886[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-06 22:08:42.079[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 01:05:26.279[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:26.360[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:05:42.449[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:42.451[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:42.986[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:43.833[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:43.834[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:44.606[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:46.432[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:46.433[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:05:51.283[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:51.284[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:51.618[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:52.471[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:52.473[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:53.328[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:54.699[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:05:55.109[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:55.110[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:05:59.979[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:05:59.981[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:00.324[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:01.648[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:01.649[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:06:07.130[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:07.130[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:07.449[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:08.594[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:08.596[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:06:13.213[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:13.216[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:13.559[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:14.646[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:14.647[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:06:19.811[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:19.813[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:20.150[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:21.112[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:21.112[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:06:25.062[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:25.062[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:25.356[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:26.276[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:26.277[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:06:29.371[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 01:07:55.011[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:07:55.020[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:08:01.998[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:02.006[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:02.441[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:03.446[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:03.450[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:04.195[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:06.277[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:08:07.726[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:07.727[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:08:12.270[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:12.272[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:12.587[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:13.570[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:13.571[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:14.552[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:16.581[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:08:16.973[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:16.974[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:08:20.977[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:20.980[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:21.320[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:22.604[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:08:22.608[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:18.799[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:18.807[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:25.967[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:25.976[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:26.424[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:27.476[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:27.477[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:28.178[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:29.340[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:14:29.930[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:29.931[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:34.265[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:34.266[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:34.691[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:35.654[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:35.658[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:37.226[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:39.207[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:39.310[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:14:39.715[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:39.716[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:43.684[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:43.686[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:44.011[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:45.336[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:45.337[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:49.697[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:49.701[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:50.013[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:51.234[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:51.235[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:14:55.595[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:55.598[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:55.917[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:56.919[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:14:56.920[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:15:01.001[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:01.003[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:01.338[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:02.602[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:02.603[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:15:06.677[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:06.679[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:06.984[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:07.980[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:07.983[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:10.955[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:15:11.055[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 01:45:31.169[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:45:31.203[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:04.614[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:04.618[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:05.292[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:06.292[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:06.293[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:08.686[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-07 01:46:09.395[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:09.396[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:14.233[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:14.234[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:14.547[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:15.530[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:15.533[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:17.953[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 01:46:18.328[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:18.329[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:24.043[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:24.046[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:24.389[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:25.803[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:25.803[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:29.951[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:29.952[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:30.295[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:31.309[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:31.309[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:35.150[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:35.152[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:35.471[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:36.474[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:36.475[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:40.648[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:40.652[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:40.980[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:42.012[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:42.013[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 01:46:45.811[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:45.812[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:46.155[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:47.106[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:47.110[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 01:46:50.277[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 02:01:30.277[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:30.286[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:01:38.654[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:38.659[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:38.989[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:39.985[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:39.986[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:01:42.359[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 02:06:25.139[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:25.148[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:06:34.035[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:34.037[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:34.459[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:35.689[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:35.694[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:38.178[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 02:06:38.835[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:38.836[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:06:42.933[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:42.935[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:43.256[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:44.798[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:44.798[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:06:48.704[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:48.706[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:49.049[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:50.035[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:50.036[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:06:53.860[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:53.862[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:54.203[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:55.183[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:55.183[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:06:59.461[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:59.461[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:06:59.760[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:48.237[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:48.246[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:09:54.871[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:54.876[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:55.301[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:56.212[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:56.215[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:58.685[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 02:09:59.203[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:09:59.204[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:10:03.037[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:03.039[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:03.378[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:04.998[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:04.999[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:10:08.840[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:08.845[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:09.185[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:10.610[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:10.611[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:10:14.187[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:14.188[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:14.485[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:15.722[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:15.724[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:10:20.291[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:20.294[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:10:20.625[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:29.546[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:29.554[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:12:36.279[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:36.281[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:36.711[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:37.853[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:37.857[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:40.208[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 02:12:40.779[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:40.780[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:12:44.638[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:44.641[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:44.964[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:46.516[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:46.517[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:12:50.350[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:50.352[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:50.708[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:51.971[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:51.972[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:12:55.711[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:55.714[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:56.084[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:57.303[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:12:57.304[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 02:13:01.274[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:13:01.275[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 02:13:01.636[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:37:54.499[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:37:54.508[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 13:38:04.779[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:04.784[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:05.147[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:06.305[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:06.306[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:08.996[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 13:38:09.492[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:09.492[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 13:38:13.676[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:13.678[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:14.005[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:15.722[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:15.723[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 13:38:20.000[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:20.002[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:20.383[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:21.522[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:21.523[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 13:38:25.400[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:25.402[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:25.684[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:26.727[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:26.727[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 13:38:30.992[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:30.994[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 13:38:31.305[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:42.877[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:42.940[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 20:55:56.241[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:56.246[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:56.598[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:57.973[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:55:57.973[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:56:30.419[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 20:59:30.708[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:30.717[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 20:59:41.347[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:41.367[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:41.806[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:42.901[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:42.901[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:49.884[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 20:59:50.475[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:50.477[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 20:59:55.894[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:55.896[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:56.222[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:57.377[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 20:59:57.378[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:00:00.501[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:01:36.887[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:36.896[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:01:43.461[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:43.477[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:43.811[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:44.819[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:44.819[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:50.992[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:01:51.494[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:51.495[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:01:57.506[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:57.507[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:57.791[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:58.870[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:01:58.871[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:02.452[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:02:48.462[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:48.471[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:02:55.870[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:55.878[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:56.248[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:57.469[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:02:57.470[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:01.178[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:03:01.891[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:01.892[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:03:05.829[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:05.832[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:06.162[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:07.191[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:07.191[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:03:12.554[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:04:15.324[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:15.334[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:04:22.760[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:22.769[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:23.187[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:24.286[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:24.287[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:28.208[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:04:28.693[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:28.694[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:04:33.186[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:33.187[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:33.529[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:34.448[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:34.448[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:58.603[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:04:58.616[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:05:07.499[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:05:07.504[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:05:07.990[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:05:09.126[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:05:09.126[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:05:38.381[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:06:36.973[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:06:36.977[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:06:45.733[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:06:45.734[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:06:46.659[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:06:48.384[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:06:48.386[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:42.677[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:42.687[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:09:55.004[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:55.007[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:55.454[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:56.511[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:09:56.511[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:00.681[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:10:01.287[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:01.288[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:10:06.403[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:06.404[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:06.724[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:07.780[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:07.780[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:10:14.660[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:18:47.980[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:18:47.990[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:18:56.365[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:18:56.374[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:18:56.735[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:18:58.454[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:18:58.455[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:02.223[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:19:02.778[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:02.778[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:19:07.516[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:07.517[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:07.842[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:08.890[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:08.890[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:14.990[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:19:15.258[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:15.259[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:19:20.380[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:20.381[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:20.644[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:21.969[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:21.969[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:19:25.521[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-07 21:24:54.605[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:24:54.616[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:25:02.838[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:02.841[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:03.231[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:04.573[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:04.575[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:13.272[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:25:13.760[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:25:13.761[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:04.334[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:04.334[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:09.975[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:09.991[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:11.464[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:11.465[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:11.827[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:13.769[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:13.771[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:19.743[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-07 21:26:21.303[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:21.307[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:25.205[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:25.207[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:25.752[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:26.822[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:26.823[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:32.049[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:32.049[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:32.351[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:33.315[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:26:33.565[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:33.566[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:35.564[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:35.565[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:38.719[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 21:26:40.940[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:40.941[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:41.212[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:42.476[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:42.477[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:46.205[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:26:46.475[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:46.476[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:26:52.071[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:52.073[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:52.372[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:53.362[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:53.363[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:56.921[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-07 21:26:57.467[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:26:57.468[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:27:02.620[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:27:02.622[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:27:02.962[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:27:04.036[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:27:04.038[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:27:08.588[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 21:45:54.536[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:45:54.544[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:02.577[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:02.585[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:02.951[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:04.089[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:04.089[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:07.390[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-07 21:46:07.907[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:07.908[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:13.712[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:13.713[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:14.017[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:15.035[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:15.035[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:18.493[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-07 21:46:18.765[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:18.767[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:23.136[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:23.138[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:23.444[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:24.467[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:24.468[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:27.618[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-07 21:46:27.926[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:27.927[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:32.929[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:32.930[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:33.259[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:34.285[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:34.286[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:37.452[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-07 21:46:37.937[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:37.938[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:42.580[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:42.580[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:42.853[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:44.458[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:44.458[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:49.703[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:49.703[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:49.981[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:51.014[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:51.014[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:46:55.155[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:55.156[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:55.465[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:56.499[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:46:56.500[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-07 21:47:00.510[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:47:00.511[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 21:47:00.796[main]LoggerLoad-Loading File Input Stream - Config.properties
-[INFO ]2023-03-07 22:05:09.926[main]LoggerLoad-Ds-Algo Projectclass stepDefinition.BaseClass
-[INFO ]2023-03-08 18:11:17.139[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 18:11:29.766[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 18:11:39.158[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 18:11:50.782[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 18:17:39.378[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 18:17:51.616[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 18:18:00.610[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 18:18:10.016[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 18:20:05.604[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 18:20:14.420[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 18:20:23.263[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 18:20:31.905[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:02:53.269[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:03:02.073[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:03:10.197[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:03:18.445[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:04:59.745[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:05:08.837[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:05:19.992[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:05:29.230[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:14:27.249[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:14:36.345[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:14:46.946[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:14:55.512[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:16:23.816[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:16:32.982[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:16:41.979[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:16:50.619[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:18:40.350[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:18:49.616[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:18:58.282[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:19:08.339[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:24:25.784[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:24:34.732[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:24:42.988[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:24:51.699[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:25:51.915[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:26:01.169[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:26:09.744[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:26:18.590[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:41:27.073[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:41:36.598[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:41:45.282[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:41:53.919[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:47:38.893[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:47:51.644[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:48:01.189[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:48:10.548[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:50:30.967[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:50:41.641[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:50:53.851[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:51:03.816[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:52:35.613[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:52:44.884[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:52:53.562[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:53:02.291[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:58:01.840[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 20:58:11.878[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 20:58:21.951[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 20:58:32.186[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 20:59:56.581[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 21:00:08.968[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 21:00:20.037[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 21:00:32.210[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-08 21:07:17.401[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-08 21:07:28.498[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-08 21:07:38.546[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-08 21:07:49.098[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 01:28:19.728[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 01:28:36.372[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 01:28:51.655[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 01:29:07.048[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 01:45:46.300[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 01:46:01.684[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 01:46:16.510[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 01:46:31.876[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 01:47:17.581[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 01:53:50.541[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 01:54:06.015[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 01:54:21.916[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 01:54:39.040[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 01:55:26.885[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 01:55:40.021[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 12:19:32.511[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 12:19:54.413[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 12:20:15.851[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 12:20:37.763[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 12:21:39.362[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 12:21:55.606[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 12:41:27.070[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 12:41:48.155[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 12:42:07.761[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 12:42:27.522[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 12:43:27.122[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 12:43:42.884[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 13:17:46.095[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 13:18:06.860[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 13:18:27.058[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 13:18:47.347[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 13:19:46.459[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 13:20:02.430[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 16:05:17.338[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 16:05:34.080[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 16:05:48.765[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 16:06:00.960[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 16:06:49.805[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 16:06:58.195[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 16:21:33.244[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 16:21:48.073[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 16:22:03.695[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 16:22:18.463[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 16:22:57.467[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 16:23:05.214[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 16:29:00.007[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 16:29:16.425[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 16:29:32.638[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 16:29:46.173[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 16:30:32.648[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 16:30:40.249[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 17:01:00.799[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 17:01:11.734[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 17:01:26.094[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 17:02:24.518[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 17:02:30.826[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 19:32:07.529[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 19:32:16.440[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 19:32:25.901[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 19:32:34.970[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 19:33:00.310[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 19:33:06.058[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 23:20:07.541[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 23:20:16.943[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 23:20:25.399[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 23:20:35.556[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 23:21:00.212[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 23:21:06.271[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-09 23:30:43.037[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-09 23:30:51.797[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-09 23:30:59.992[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-09 23:31:09.879[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-09 23:31:35.002[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-09 23:31:41.032[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-10 21:07:18.925[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-10 21:07:27.890[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-10 21:07:37.768[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-10 21:07:45.757[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-10 21:08:10.397[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-10 21:08:16.230[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-11 20:15:06.062[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-11 20:15:16.363[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-11 20:15:27.277[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-11 20:15:37.084[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-11 20:16:06.964[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-11 20:16:14.688[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-11 20:22:26.536[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-11 20:22:37.746[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-11 20:22:47.701[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-11 20:22:58.037[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-11 20:23:29.624[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-11 20:23:36.428[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-12 00:38:09.407[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-12 00:38:18.936[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-12 00:38:27.421[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-12 00:38:35.810[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-12 00:39:02.809[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-12 00:39:10.039[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-12 00:51:21.535[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-12 00:51:30.643[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-12 00:51:39.489[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-12 00:51:47.925[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-12 00:52:14.049[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-12 00:52:20.784[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-12 03:03:53.897[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-12 03:04:07.149[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-12 03:04:17.076[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-12 03:04:26.676[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-12 03:04:59.064[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-12 03:05:06.709[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
-[INFO ]2023-03-12 15:15:47.758[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction in Linked List Page
-[INFO ]2023-03-12 15:15:57.709[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
-[INFO ]2023-03-12 15:16:07.488[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
-[INFO ]2023-03-12 15:16:16.131[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
-[INFO ]2023-03-12 15:16:44.547[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
-[INFO ]2023-03-12 15:16:52.502[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
+[INFO ]2023-03-16 03:26:25.849[main]LoggerLoad-User Clicked Get Started Button Of LinkedList
+[INFO ]2023-03-16 03:26:26.235[main]LoggerLoad-User Clicked Linked List - Introduction
+[INFO ]2023-03-16 03:26:26.269[main]LoggerLoad-User redirected to Linked List - Introduction List Page
+[INFO ]2023-03-16 03:26:27.255[main]LoggerLoad-User clicks type here button in Linked List - Introduction
+[INFO ]2023-03-16 03:26:27.380[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:26:27.470[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:26:28.483[main]LoggerLoad-User enter python program in Linked List - Introduction
+[INFO ]2023-03-16 03:26:28.489[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction
+[INFO ]2023-03-16 03:26:35.435[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:26:35.876[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:26:36.264[main]LoggerLoad-In Linked List-Creating Linked LIst page
+[INFO ]2023-03-16 03:26:37.276[main]LoggerLoad-User clicks type here button in Linked List - Creating Linked List
+[INFO ]2023-03-16 03:26:37.482[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:26:38.483[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:26:38.487[main]LoggerLoad-Output of the Program displayed at Linked List - Creating Linked List
+[INFO ]2023-03-16 03:26:45.012[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:26:45.430[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:26:45.985[main]LoggerLoad-In Linked List-Types of Linked List page
+[INFO ]2023-03-16 03:26:46.969[main]LoggerLoad-User clicks type here button in Linked List - Typed Of Linked List
+[INFO ]2023-03-16 03:26:47.151[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:26:48.163[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:26:48.164[main]LoggerLoad-Output of the Program displayed at Linked List - Types Linked List
+[INFO ]2023-03-16 03:26:54.681[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:26:55.091[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:26:55.444[main]LoggerLoad-In Linked List-Implement Linked List in Python page
+[INFO ]2023-03-16 03:26:56.484[main]LoggerLoad-User clicks type here button in Linked List - Implement Link List in Python
+[INFO ]2023-03-16 03:26:56.657[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:26:57.664[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:26:57.667[main]LoggerLoad-Output of the Program displayed at Linked List - Implement Link List Python
+[INFO ]2023-03-16 03:27:04.164[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:27:04.572[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:27:04.971[main]LoggerLoad-In Linked List-Traversal page
+[INFO ]2023-03-16 03:27:06.007[main]LoggerLoad-User clicks type here button in Linked List - Traversal
+[INFO ]2023-03-16 03:27:06.218[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:07.219[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:27:07.222[main]LoggerLoad-Output of the Program displayed at Linked List - Traversal
+[INFO ]2023-03-16 03:27:13.819[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:27:14.239[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:27:14.650[main]LoggerLoad-In Linked List-Insertion page
+[INFO ]2023-03-16 03:27:15.637[main]LoggerLoad-User clicks type here button in Linked List - Insertion
+[INFO ]2023-03-16 03:27:15.803[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:16.817[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:27:16.820[main]LoggerLoad-Output of the Program displayed at Linked List - Insertion
+[INFO ]2023-03-16 03:27:23.443[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:27:23.840[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-16 03:27:24.243[main]LoggerLoad-In Linked List-Insertion page
+[INFO ]2023-03-16 03:27:25.346[main]LoggerLoad-User clicks type here button in Linked List - Deletion
+[INFO ]2023-03-16 03:27:25.521[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:26.525[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:27:26.527[main]LoggerLoad-Output of the Program displayed at Linked List - Deletion
+[INFO ]2023-03-16 03:27:33.084[main]LoggerLoad-User Click Data Structure Get Started Button
+[INFO ]2023-03-16 03:27:33.098[main]LoggerLoad-User directed to Data Structures - Introduction
+[INFO ]2023-03-16 03:27:33.462[main]LoggerLoad-User Click Data Structures - Time Complexity
+[INFO ]2023-03-16 03:27:33.471[main]LoggerLoad-User directed to Data Structures - Time Complexity
+[INFO ]2023-03-16 03:27:34.512[main]LoggerLoad-User clicks type here button in Data Structures
+[INFO ]2023-03-16 03:27:34.627[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:27:34.717[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:35.719[main]LoggerLoad-User enter python program in Data Structures
+[INFO ]2023-03-16 03:27:35.721[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
+[INFO ]2023-03-16 03:27:42.312[main]LoggerLoad-User Clicks on Get Started Button of Stack
+[INFO ]2023-03-16 03:27:42.328[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-16 03:27:42.812[main]LoggerLoad-User click Stack - Operation Sublink
+[INFO ]2023-03-16 03:27:42.824[main]LoggerLoad-User directed to the Stack - Operation sublink
+[INFO ]2023-03-16 03:27:43.795[main]LoggerLoad-User clicks type here button in Stack - Operation in Stack Link
+[INFO ]2023-03-16 03:27:43.921[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:27:44.015[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:45.024[main]LoggerLoad-User enter python program in Stack - Operation in Stack Line
+[INFO ]2023-03-16 03:27:45.026[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
+[INFO ]2023-03-16 03:27:51.429[main]LoggerLoad-User is In Stack Page
+[INFO ]2023-03-16 03:27:51.440[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-16 03:27:51.786[main]LoggerLoad-User is In Stack - Implementation
+[INFO ]2023-03-16 03:27:51.796[main]LoggerLoad-User directed to implementation page of stack
+[INFO ]2023-03-16 03:27:52.774[main]LoggerLoad-User clicks type here button in Stack - Implementation
+[INFO ]2023-03-16 03:27:52.898[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:27:52.995[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:27:54.010[main]LoggerLoad-User enter python program in Stack Implementation
+[INFO ]2023-03-16 03:28:00.301[main]LoggerLoad-User is In Stack - Application Link
+[INFO ]2023-03-16 03:28:00.659[main]LoggerLoad-User is In Stack Page
+[INFO ]2023-03-16 03:28:00.677[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-16 03:28:01.091[main]LoggerLoad-User Clicked Stack Page - Application Link
+[INFO ]2023-03-16 03:28:01.101[main]LoggerLoad-User directed to Application Link Page of Stack
+[INFO ]2023-03-16 03:28:02.097[main]LoggerLoad-User clicks type here button in Stack - Application Link
+[INFO ]2023-03-16 03:28:02.301[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:04.112[main]LoggerLoad-Entered Wrong Python Code in Stack - Application
+[INFO ]2023-03-16 03:28:10.709[main]LoggerLoad-User Clicking Graph Get Started Button
+[INFO ]2023-03-16 03:28:11.069[main]LoggerLoad-User Clicking Graph Link in Graph
+[INFO ]2023-03-16 03:28:11.079[main]LoggerLoad-User should redirect to Graph Page having try here button
+[INFO ]2023-03-16 03:28:12.060[main]LoggerLoad-User clicks type here button in Graph
+[INFO ]2023-03-16 03:28:12.188[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:28:12.284[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:13.291[main]LoggerLoad-User enter python program in Graph
+[INFO ]2023-03-16 03:28:13.294[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
+[INFO ]2023-03-16 03:28:20.428[main]LoggerLoad-User Clicking Graph Get Started Button
+[INFO ]2023-03-16 03:28:20.965[main]LoggerLoad-User is In Graph - Graph Representation
+[INFO ]2023-03-16 03:28:20.981[main]LoggerLoad-User should redirect to Graph Representation Page having try here button
+[INFO ]2023-03-16 03:28:21.917[main]LoggerLoad-User clicks type here button in Graph
+[INFO ]2023-03-16 03:28:22.043[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:28:22.128[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:23.137[main]LoggerLoad-User enter python program in Graph - Graph Representation
+[INFO ]2023-03-16 03:28:23.140[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
+[INFO ]2023-03-16 03:28:30.074[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:28:30.504[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-16 03:28:31.469[main]LoggerLoad-User clicks type here button in Array
+[INFO ]2023-03-16 03:28:31.596[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:28:31.682[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:32.684[main]LoggerLoad-User enter python program in Array
+[INFO ]2023-03-16 03:28:32.687[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
+[INFO ]2023-03-16 03:28:39.325[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:28:39.704[main]LoggerLoad-User is In Array - Arrays Using List
+[INFO ]2023-03-16 03:28:39.718[main]LoggerLoad-User redirected to Array Using List Page in Array
+[INFO ]2023-03-16 03:28:40.788[main]LoggerLoad-User clicks type here button in Array - Arrays Using List
+[INFO ]2023-03-16 03:28:40.910[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:28:41.000[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:42.007[main]LoggerLoad-User enter python program in Array - Arrays Using List
+[INFO ]2023-03-16 03:28:42.009[main]LoggerLoad-Output of the Program displayed at Arrays - Arrays Using Lists
+[INFO ]2023-03-16 03:28:49.140[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:28:49.545[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-16 03:28:50.985[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:28:51.070[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:28:58.868[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:28:59.182[main]LoggerLoad-In Arrays page
+[INFO ]2023-03-16 03:28:59.557[main]LoggerLoad-In Arrays-Basic Operations in Lists page
+[INFO ]2023-03-16 03:29:00.631[main]LoggerLoad-User clicks type here button in Array - Basic Operation in Lists
+[INFO ]2023-03-16 03:29:00.832[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:01.840[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:29:01.843[main]LoggerLoad-Output of the Program displayed at Arrays - Basic Operation in Lists
+[INFO ]2023-03-16 03:29:08.123[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:29:08.548[main]LoggerLoad-In Arrays page
+[INFO ]2023-03-16 03:29:08.928[main]LoggerLoad-In Arrays-Applications of Array page
+[INFO ]2023-03-16 03:29:09.912[main]LoggerLoad-User clicks type here button in Array - Basic Application of Array
+[INFO ]2023-03-16 03:29:10.112[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:11.124[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-16 03:29:11.126[main]LoggerLoad-Output of the Program displayed at Arrays - Basic Application of Array
+[INFO ]2023-03-16 03:29:17.819[main]LoggerLoad-In Queue
+[INFO ]2023-03-16 03:29:21.252[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:29:21.368[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:23.446[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:29:23.521[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:25.252[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:29:25.327[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:27.114[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:29:27.196[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:28.222[main]LoggerLoad-Validate valid program in all sublinks of queue
+[INFO ]2023-03-16 03:29:28.223[main]LoggerLoad-Python Program Printed Successfully Queue
+[INFO ]2023-03-16 03:29:34.885[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:29:35.298[main]LoggerLoad-In Tree page
+[INFO ]2023-03-16 03:29:35.781[main]LoggerLoad-In Tree-Overview of Trees page
+[INFO ]2023-03-16 03:29:36.873[main]LoggerLoad-User clicks type here button in Tree - Overview Of Trees
+[INFO ]2023-03-16 03:29:37.024[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:29:37.100[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:38.107[main]LoggerLoad-User enter python program in Tree - Overview Of Trees
+[INFO ]2023-03-16 03:29:38.135[main]LoggerLoad-Invalid Program in Tree - Overview Of Tree Page
+[INFO ]2023-03-16 03:29:44.744[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:29:45.159[main]LoggerLoad-In Tree page
+[INFO ]2023-03-16 03:29:45.530[main]LoggerLoad-In Tree-Terminologies page
+[INFO ]2023-03-16 03:29:46.486[main]LoggerLoad-User clicks type here button in Tree - Terminologies
+[INFO ]2023-03-16 03:29:46.686[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:48.254[main]LoggerLoad-Entered Wrong Python Code in Stack - Application
+[INFO ]2023-03-16 03:29:48.254[main]LoggerLoad-Wrong Python Code Prints in Tree - Terminologies Page
+[INFO ]2023-03-16 03:29:54.634[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:29:55.079[main]LoggerLoad-In Tree page
+[INFO ]2023-03-16 03:29:55.456[main]LoggerLoad-In Tree-Types of Trees page
+[INFO ]2023-03-16 03:29:56.463[main]LoggerLoad-User clicks type here button in Tree - Types Of Trees
+[INFO ]2023-03-16 03:29:56.567[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:29:56.568[main]LoggerLoad-No Program runs in Tree - Types of Trees
+[INFO ]2023-03-16 03:30:02.859[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-16 03:30:03.279[main]LoggerLoad-In Tree page
+[INFO ]2023-03-16 03:30:04.915[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:04.993[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:07.061[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:07.125[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:09.144[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:09.202[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:11.302[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:11.363[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:13.342[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:13.398[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:15.394[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:15.448[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:17.430[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:17.487[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:19.429[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:19.491[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:21.637[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:21.687[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:23.652[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-16 03:30:23.704[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-16 03:30:24.752[main]LoggerLoad-Validate valid program in all sublinks of Tree
+[INFO ]2023-03-16 03:30:24.759[main]LoggerLoad-Python Program Print Successfully in all of the Tree Links
+[INFO ]2023-03-16 03:32:53.000[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:32:53.655[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-16 03:35:34.572[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:35:34.977[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-16 03:39:06.328[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-16 03:39:06.847[main]LoggerLoad- User is In Array - Arrays in Python Link

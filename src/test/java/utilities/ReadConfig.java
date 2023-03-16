@@ -59,4 +59,10 @@ Properties pro;
 		String code = pro.getProperty("registrationURL");
 		return code;
 	}	
+	
+	public String getHomeURL()
+	{
+		String code = pro.getProperty("baseURLwithoutHome");
+		return code;
+	}
 }

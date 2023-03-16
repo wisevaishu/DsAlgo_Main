@@ -49,6 +49,7 @@ public class BaseClass
 	public String browser =readconfig.getBrowser();
 	public String code =readconfig.getCode();
 	public String registraionURL=readconfig.getRegistrationURL();
+	public String HomeURL=readconfig.getHomeURL();
 		
 	public dataStructures ds;
 	public validLogin vl;
@@ -60,30 +61,49 @@ public class BaseClass
 	public HomeElements he;
 	public GraphElements g;
 	
-	public static LoggerLoad logger;
-	
+	public static LoggerLoad logger = new LoggerLoad();
+	public static int ToggleURL =0;
 
 	public synchronized void setup(String br)
 	{		
 		if(br.equals("chrome"))
-		{	
-			System.setProperty("webdriver.chrome.driver", "C:\\Personal\\Vaish\\Numpy Ninja\\DsAlgo\\Coding\\DsAlgo\\src\\test\\resources\\drivers\\ChromeDriver110\\chromedriver.exe");
-			ChromeOptions options= new ChromeOptions();
-			options.addArguments("--remote-allow-origins=*");
-			driver = new ChromeDriver (options);			
+		{				
+			if (ToggleURL==0)
+			{
+				System.setProperty("webdriver.chrome.driver", ".\\src\\test\\resources\\drivers\\ChromeDriver110\\chromedriver.exe");
+				ChromeOptions options= new ChromeOptions();
+				options.addArguments("--remote-allow-origins=*");
+				driver = new ChromeDriver (options);
+				driver.get(HomeURL);
+				driver.manage().window().maximize();
+				he = new HomeElements();
+				he.HomeGetStartedButtonClick();
+				ToggleURL=1;
+			}
+			else
+			{
+				System.setProperty("webdriver.chrome.driver", ".\\src\\test\\resources\\drivers\\ChromeDriver110\\chromedriver.exe");
+				ChromeOptions options= new ChromeOptions();
+				options.addArguments("--remote-allow-origins=*");
+				driver = new ChromeDriver (options);
+				
+			}
 		}		
 		driver.get(baseURL);
 	}	
 	
 	public void tearDown()
 	{
+		
 		driver.quit();
 	}
 	
 	public void RunPythonProgram()
 	{		
 		WebElement focuselement = driver.switchTo().activeElement();
+	
 		focuselement.sendKeys(code);
+		logger.info("Running Valid Python Code");
 	}
 	
 	public void RunWrongPythonProgram()
@@ -92,11 +112,11 @@ public class BaseClass
 		focuselement.sendKeys("Welcome Numpy Ninja");
 	}
 	
-//	public String GetStartedButtonXpath(String DataStructuresName)
-//	{
-//		return "//a[@href='"+DataStructuresName+"']";
-//		
-//	}
+	public void RunPythonProgram(String CodeFromFeature)
+	{		
+		WebElement focuselement = driver.switchTo().activeElement();
+		focuselement.sendKeys(CodeFromFeature);
+	}
 	
 	public static void Screenshot(String Stepname) throws IOException
 	{
@@ -128,5 +148,6 @@ public class BaseClass
 	{
 		WebElement currentRunButton = currentDriver.findElement(By.xpath("//button[contains(text(),'Run')]"));
 		currentRunButton.click();
+		logger.info("Clicking Run Button");
 	}		
 }

@@ -4,19 +4,17 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestListener;
+import org.testng.annotations.Listeners;
 
 import io.qameta.allure.Attachment;
 import stepDefinition.*;
-
 import java.awt.AWTException;
 import java.awt.Rectangle;
 import java.awt.Robot;
 import java.awt.Toolkit;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
-import java.io.File;
 import java.io.IOException;
-
 import javax.imageio.ImageIO;
 
 public class TestListener extends BaseClass implements ITestListener
@@ -51,4 +49,6 @@ public class TestListener extends BaseClass implements ITestListener
 		return message;
 		
 	}
+	
+    
 }
