@@ -1,7 +1,6 @@
 package pageObjects;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -25,6 +24,9 @@ public class HomeElements  extends BaseClass
 	WebElement siginUrl;
 	@FindBy(xpath = "//div[@class='alert alert-primary']")
 	WebElement loginerrormsg;
+	
+	@FindBy(xpath="//button[contains(text(),'Get Started')]")
+	WebElement HomeGetStartedButton;
 	
 	public String getsuccessmsg() 
 	{
@@ -61,6 +63,11 @@ public class HomeElements  extends BaseClass
 	{
 		String DropDownXpath = "//a[contains(text(),'"+AHREFNamesofDropDown+"')]";
 		driver.findElement(By.xpath(DropDownXpath)).click();;
+	}
+	
+	public void HomeGetStartedButtonClick() 
+	{
+		HomeGetStartedButton.click();
 	}
 	
 }

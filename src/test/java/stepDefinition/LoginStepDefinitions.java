@@ -34,8 +34,7 @@ public class LoginStepDefinitions extends BaseClass
 	@When("^I click Login button$")
 	public void i_click_login_button() throws IOException 
 	{
-		le.clickSubmit();
-		Screenshot("Login Page");
+		le.clickSubmit();		
 	}
 
 	@Then("Success message {string} is displayed")

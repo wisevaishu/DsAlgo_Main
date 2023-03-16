@@ -14,6 +14,7 @@ public class LinkedList extends BaseClass
 	
 	@FindBy(xpath = "//a[@href='linked-list']")	WebElement LinkedListGetStartedButton;
 	@FindBy(linkText = "Introduction") WebElement LLIntroLink;
+	@FindBy(xpath = "//pre[@id='output']") WebElement ProgramPreElement;
 		
 	public void LinkedListGetStartedButtonClick()
 	{
@@ -25,13 +26,15 @@ public class LinkedList extends BaseClass
 		LLIntroLink.click();
 	}
 	
-//	public void LLTryHereButtonClick()
-//	{
-//		LLTryHereButton.click();
-//	}
-//	
-//	public void RunButtonClick()
-//	{
-//		RunButton.click();
-//	}
+	public Boolean CheckProgramPrinted()
+	{
+		if (ProgramPreElement.getText()=="")
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
 }

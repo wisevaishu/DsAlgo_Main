@@ -12,12 +12,14 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.HomeElements;
 import utilities.ExcelReader;
+import utilities.TestListener;
 
 public class HomeStepDefinition extends BaseClass
 {
 	ExcelReader reader = new ExcelReader();
 	String links;
 	List<Map<String, String>> homelinks;
+	TestListener tl = new TestListener();
 	
 	@Given("User navigate to home page")
 	public void user_navigate_to_home_page() 
@@ -36,6 +38,7 @@ public class HomeStepDefinition extends BaseClass
 			String LinkClickString=homelinks.get(i).get("HomeListLinks");
 			he.LinkClick(LinkClickString);			
 			Screenshot("withoutloginclickinggetstarted");
+			tl.saveScreenshotPNG(driver);
 		}		
 	}
 	
