@@ -1,33 +1,17 @@
 package stepDefinition;
 
-import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
-import static org.testng.Assert.fail;
-
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.junit.internal.runners.statements.Fail;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.testng.Assert;
-import org.testng.ITestResult;
 import org.testng.annotations.Listeners;
-
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.MediaEntityBuilder;
-import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
-
-import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.qameta.allure.Epic;
 import pageObjects.*;
 import utilities.ExcelReader;
-
 import utilities.TestListener;
 import utilities.testUtil;
 
@@ -38,7 +22,6 @@ public class RegisterExcel extends BaseClass
 	String expectedmessage,status, username;
 	TestListener tl = new TestListener();
 	testUtil tu = new testUtil();
-	
 	
 	
 	@Given("User navigate to Register page")
@@ -117,10 +100,14 @@ public class RegisterExcel extends BaseClass
 	{
 		
 		//if (username.equals("RandomUser"))
-		if (status.equals("valid"))
+		if (status.equals("invalid"))
+		{
+			Assert.assertEquals(re.printRetrievemsg(), "invalid");
+		}
+		else
 		{
 			Assert.assertEquals(re.printRetrievemsg(), expectedmessage);
 		}
-		Assert.assertEquals(re.printRetrievemsg(), expectedmessage);		
+				
 	}
 }

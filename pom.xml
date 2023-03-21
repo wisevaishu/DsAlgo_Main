@@ -43,6 +43,7 @@
     </plugins>
 </build>
 <dependencies>
+	
 	<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
 	<!-- For Logs 4 J-->
 	<dependency>
@@ -166,10 +167,6 @@
     <artifactId>lombok</artifactId>
     <version>1.18.24</version>
     <scope>provided</scope>
-</dependency>
-
-
-
-	
+</dependency>	
 </dependencies>
 </project>
