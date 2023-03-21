@@ -10,8 +10,7 @@ import pageObjects.LoginElements;
 import pageObjects.validLogin;
 
 public class LoginStepDefinitions extends BaseClass
-{
-	
+{	
 	@Given("^I enter \"([^\"]*)\" and \"([^\"]*)\"$")
 	public void i_enter_username_and_password(String arg1, String arg2) 
 	{

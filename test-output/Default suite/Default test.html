@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>4/3/0</td>
 </tr><tr>
-<td>Started on:</td><td>Thu Mar 16 03:38:46 PDT 2023</td>
+<td>Started on:</td><td>Thu Mar 16 16:13:46 PDT 2023</td>
 </tr>
-<tr><td>Total time:</td><td>34 seconds (34627 ms)</td>
+<tr><td>Total time:</td><td>75 seconds (75658 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,61 +75,99 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "The User able to navigate the PracticeQuestions in Arrays", "DsAlgo Test Cases"</td>
-<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=111.0.5563.65)
-Build info: version: &apos;4.8.1&apos;, revision: &apos;8ebccac989&apos;
-System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_111&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6aa8d584d6f7397840397ae5606f0235, clearElement {id=77d07486-d91a-4b95-a759-536293842bc2}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.65, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Prabhu\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50402/devtoo..., se:cdpVersion: 111.0.5563.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [org.openqa.selenium.remote.RemoteWebElement@5e907481 -&gt; unknown locator]
-Session ID: 6aa8d584d6f7397840397ae5606f0235
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
-	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:132)
-	at stepDefinition.BaseClass.RunPythonProgram(BaseClass.java:104)
-	at stepDefinition.steps.user_enter_python_program_in(steps.java:39)
-	at ✽.user enter python program in &quot;Arrays - Practice Questions&quot;(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/TestCasesAll.feature:170)
-</pre></div><a href='#' onClick='toggleBox("stack-trace346008447", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace346008447'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=111.0.5563.65)
-Build info: version: &apos;4.8.1&apos;, revision: &apos;8ebccac989&apos;
-System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_111&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6aa8d584d6f7397840397ae5606f0235, clearElement {id=77d07486-d91a-4b95-a759-536293842bc2}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.65, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Prabhu\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50402}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50402/devtoo..., se:cdpVersion: 111.0.5563.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [org.openqa.selenium.remote.RemoteWebElement@5e907481 -&gt; unknown locator]
-Session ID: 6aa8d584d6f7397840397ae5606f0235
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
-	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:132)
-	at stepDefinition.BaseClass.RunPythonProgram(BaseClass.java:104)
-	at stepDefinition.steps.user_enter_python_program_in(steps.java:39)
-	at ✽.user enter python program in &quot;Arrays - Practice Questions&quot;(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/TestCasesAll.feature:170)
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td><div><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1305330034", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1305330034'><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
 </pre></div></td>
-<td>29</td>
-<td>testRunner.testRun$TestRun@733037</td></tr>
+<td>21</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td><div><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1189870601", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1189870601'><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+</pre></div></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td><div><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1001197309", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1001197309'><pre>java.lang.AssertionError: expected [invalidscreenshot] but found [password_mismatch:The two password fields didn’t match.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:122)
+	at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+</pre></div></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
+<tr>
+<td title='testRunner.testRun$TestRun.runScenario()'><b>runScenario</b><br>Test class: testRunner.testRun$TestRun<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User enters user data in Register page", "Register feature with ExcelSheet Handling"</td>
+<td></td>
+<td>7</td>
+<td>testRunner.testRun$TestRun@6e0ff644</td></tr>
 </table><p>
 </body>
 </html>

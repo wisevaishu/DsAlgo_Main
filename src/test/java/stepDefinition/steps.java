@@ -20,10 +20,8 @@ public class steps extends BaseClass
 	ExcelReader reader = new ExcelReader();
 	public String MainLinkName="";
 	public int ArrayPracticeQuestions=0;
-	
-	
+		
 	//common
-
 	@When("User clicks current Type Here button in page in {string}")
 	public void user_clicks_current_type_here_button_in_page_in(String classname) 
 	{

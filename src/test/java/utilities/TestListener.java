@@ -35,7 +35,7 @@ public class TestListener extends BaseClass implements ITestListener
 		// Capturing screenshot by providing size
 		BufferedImage tmp = robotClassObject.createScreenCapture(screenSize); 
 		// Defining destination file path
-		String path = ".\\src\\test\\resources\\Screenshots\\"+"wrongpythoncode"+".jpeg";
+		String path = ".\\src\\test\\resources\\Screenshots\\"+wrongpythoncode+".jpeg";
  		ByteArrayOutputStream baos = new ByteArrayOutputStream();
 		ImageIO.write(tmp, "png", baos);
 		byte[] byteArr = baos.toByteArray();

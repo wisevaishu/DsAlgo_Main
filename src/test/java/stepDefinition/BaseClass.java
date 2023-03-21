@@ -75,7 +75,7 @@ public class BaseClass
 				options.addArguments("--remote-allow-origins=*");
 				driver = new ChromeDriver (options);
 				driver.get(HomeURL);
-				driver.manage().window().maximize();
+				driver.manage().window().maximize();				
 				he = new HomeElements();
 				he.HomeGetStartedButtonClick();
 				ToggleURL=1;
@@ -103,7 +103,7 @@ public class BaseClass
 		WebElement focuselement = driver.switchTo().activeElement();
 	
 		focuselement.sendKeys(code);
-		logger.info("Running Valid Python Code");
+		LoggerLoad.info("Running Valid Python Code");
 	}
 	
 	public void RunWrongPythonProgram()
