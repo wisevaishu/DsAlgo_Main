@@ -139,6 +139,7 @@ public class BaseClass
 		
 		File destFile = new File (path);
 		FileUtils.copyFile(srcFile,destFile);
+	
 	}	
 	
 	public static void Screenshot(String Stepname, String Wrongpythoncode) throws AWTException, IOException

@@ -1,91 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="3" ignored="0" total="7" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32295" started-at="2023-03-20T19:49:21 PDT" finished-at="2023-03-20T19:49:53 PDT">
+  <suite name="Default suite" duration-ms="57997" started-at="2023-03-21T02:29:23 PDT" finished-at="2023-03-21T02:30:21 PDT">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="32295" started-at="2023-03-20T19:49:21 PDT" finished-at="2023-03-20T19:49:53 PDT">
+    <test name="Default test" duration-ms="57997" started-at="2023-03-21T02:29:23 PDT" finished-at="2023-03-21T02:30:21 PDT">
       <class name="testRunner.testRun$TestRun">
-        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="setUpClass" is-config="true" duration-ms="2442" started-at="2023-03-20T19:49:21 PDT" finished-at="2023-03-20T19:49:23 PDT">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="setUpClass" is-config="true" duration-ms="2541" started-at="2023-03-21T02:29:23 PDT" finished-at="2023-03-21T02:29:25 PDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3fd93330]]>
+                <![CDATA[org.testng.TestRunner@7555782c]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="runScenario" duration-ms="11932" started-at="2023-03-20T19:49:23 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-20T19:49:35 PDT">
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="13720" started-at="2023-03-21T02:29:25 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:29:39 PDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Sign in  with valid credentials"]]>
+                <![CDATA["User enters user data in Register page"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Login feature"]]>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [invalid] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [invalid] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:105)
+at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6665" started-at="2023-03-21T02:29:40 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:29:46 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User enters user data in Register page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [invalid] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [invalid] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:105)
+at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6850" started-at="2023-03-21T02:29:46 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:29:53 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User enters user data in Register page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="runScenario" duration-ms="5659" started-at="2023-03-20T19:49:36 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-20T19:49:41 PDT">
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6682" started-at="2023-03-21T02:29:53 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:30:00 PDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Sign in with invalid credentials"]]>
+                <![CDATA["User enters user data in Register page"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Login feature"]]>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [invalid] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [invalid] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at stepDefinition.RegisterExcel.user_sees_a_an_approriate_message(RegisterExcel.java:105)
+at ✽.User sees a an approriate message(file:///C:/Personal/Vaish/Numpy%20Ninja/DsAlgo/Coding/DsAlgo/src/test/resources/Features/registerExcel.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6563" started-at="2023-03-21T02:30:00 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:30:07 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User enters user data in Register page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="runScenario" duration-ms="5487" started-at="2023-03-20T19:49:41 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-20T19:49:47 PDT">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6712" started-at="2023-03-21T02:30:07 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:30:13 PDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Sign in with invalid credentials"]]>
+                <![CDATA["User enters user data in Register page"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Login feature"]]>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@733037]" name="runScenario" duration-ms="5630" started-at="2023-03-20T19:49:47 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-20T19:49:52 PDT">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="runScenario" duration-ms="6683" started-at="2023-03-21T02:30:13 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-21T02:30:20 PDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Sign in with invalid credentials"]]>
+                <![CDATA["User enters user data in Register page"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Login feature"]]>
+                <![CDATA["Register feature with ExcelSheet Handling"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.testRun$TestRun@733037]" name="tearDownClass" is-config="true" duration-ms="840" started-at="2023-03-20T19:49:52 PDT" finished-at="2023-03-20T19:49:53 PDT">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.testRun$TestRun@320e400]" name="tearDownClass" is-config="true" duration-ms="851" started-at="2023-03-21T02:30:20 PDT" finished-at="2023-03-21T02:30:21 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
