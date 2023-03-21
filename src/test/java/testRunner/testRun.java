@@ -11,8 +11,8 @@ public class testRun
 	(		
 		features = 
 			{
-				"src/test/resources/Features/TestCasesAll.feature"
-				,"src/test/resources/Features/login.feature",
+				"src/test/resources/Features/TestCasesAll.feature",
+				"src/test/resources/Features/login.feature",
 				"src/test/resources/Features/registerExcel.feature",
 				"src/test/resources/Features/Home.feature"	
 			},

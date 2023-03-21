@@ -20,6 +20,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.FindBy;
@@ -88,7 +89,18 @@ public class BaseClass
 				driver = new ChromeDriver (options);
 				
 			}
-		}		
+		}	
+		else  if (br.equals("firefox"))
+		{
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+		}
+		else if (br.equals("ie"))
+		{
+			WebDriverManager.iedriver().setup();
+			driver = new InternetExplorerDriver();
+			
+		}
 		driver.get(baseURL);
 	}	
 	

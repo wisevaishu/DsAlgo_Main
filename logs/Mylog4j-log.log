@@ -205,3 +205,194 @@
 [INFO ]2023-03-20 12:31:09.403[main]LoggerLoad-Clicking Run Button
 [INFO ]2023-03-20 12:31:10.413[main]LoggerLoad-User enters valid python code
 [INFO ]2023-03-20 12:31:10.418[main]LoggerLoad-Output of the Program displayed at Linked List - Creating Linked List
+[INFO ]2023-03-21 00:21:06.376[main]LoggerLoad-User Clicked Get Started Button Of LinkedList
+[INFO ]2023-03-21 00:21:06.866[main]LoggerLoad-User Clicked Linked List - Introduction
+[INFO ]2023-03-21 00:21:06.880[main]LoggerLoad-User redirected to Linked List - Introduction List Page
+[INFO ]2023-03-21 00:21:08.231[main]LoggerLoad-User clicks type here button in Linked List - Introduction
+[INFO ]2023-03-21 00:21:08.366[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:21:08.457[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:09.461[main]LoggerLoad-User enter python program in Linked List - Introduction
+[INFO ]2023-03-21 00:21:09.468[main]LoggerLoad-Run Python Program Succesfully at Linked List - Introduction
+[INFO ]2023-03-21 00:21:16.012[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:21:16.447[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:21:16.812[main]LoggerLoad-In Linked List-Creating Linked LIst page
+[INFO ]2023-03-21 00:21:17.898[main]LoggerLoad-User clicks type here button in Linked List - Creating Linked List
+[INFO ]2023-03-21 00:21:18.122[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:19.123[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:21:19.123[main]LoggerLoad-Output of the Program displayed at Linked List - Creating Linked List
+[INFO ]2023-03-21 00:21:25.856[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:21:26.324[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:21:26.818[main]LoggerLoad-In Linked List-Types of Linked List page
+[INFO ]2023-03-21 00:21:28.084[main]LoggerLoad-User clicks type here button in Linked List - Typed Of Linked List
+[INFO ]2023-03-21 00:21:28.246[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:29.256[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:21:29.260[main]LoggerLoad-Output of the Program displayed at Linked List - Types Linked List
+[INFO ]2023-03-21 00:21:36.279[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:21:36.699[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:21:37.049[main]LoggerLoad-In Linked List-Implement Linked List in Python page
+[INFO ]2023-03-21 00:21:38.136[main]LoggerLoad-User clicks type here button in Linked List - Implement Link List in Python
+[INFO ]2023-03-21 00:21:38.302[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:39.306[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:21:39.307[main]LoggerLoad-Output of the Program displayed at Linked List - Implement Link List Python
+[INFO ]2023-03-21 00:21:46.336[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:21:46.746[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:21:47.125[main]LoggerLoad-In Linked List-Traversal page
+[INFO ]2023-03-21 00:21:48.261[main]LoggerLoad-User clicks type here button in Linked List - Traversal
+[INFO ]2023-03-21 00:21:48.467[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:49.477[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:21:49.481[main]LoggerLoad-Output of the Program displayed at Linked List - Traversal
+[INFO ]2023-03-21 00:21:55.284[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:21:55.717[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:21:56.099[main]LoggerLoad-In Linked List-Insertion page
+[INFO ]2023-03-21 00:21:57.147[main]LoggerLoad-User clicks type here button in Linked List - Insertion
+[INFO ]2023-03-21 00:21:57.318[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:21:58.318[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:21:58.320[main]LoggerLoad-Output of the Program displayed at Linked List - Insertion
+[INFO ]2023-03-21 00:22:04.790[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:22:05.253[main]LoggerLoad-In Linked List page
+[INFO ]2023-03-21 00:22:05.648[main]LoggerLoad-In Linked List-Insertion page
+[INFO ]2023-03-21 00:22:06.867[main]LoggerLoad-User clicks type here button in Linked List - Deletion
+[INFO ]2023-03-21 00:22:07.043[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:08.045[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:22:08.048[main]LoggerLoad-Output of the Program displayed at Linked List - Deletion
+[INFO ]2023-03-21 00:22:14.806[main]LoggerLoad-User Click Data Structure Get Started Button
+[INFO ]2023-03-21 00:22:14.820[main]LoggerLoad-User directed to Data Structures - Introduction
+[INFO ]2023-03-21 00:22:15.185[main]LoggerLoad-User Click Data Structures - Time Complexity
+[INFO ]2023-03-21 00:22:15.199[main]LoggerLoad-User directed to Data Structures - Time Complexity
+[INFO ]2023-03-21 00:22:16.312[main]LoggerLoad-User clicks type here button in Data Structures
+[INFO ]2023-03-21 00:22:16.438[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:22:16.539[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:17.552[main]LoggerLoad-User enter python program in Data Structures
+[INFO ]2023-03-21 00:22:17.555[main]LoggerLoad-Python Program Printed Successfully @ Data Structures - Time Complexity
+[INFO ]2023-03-21 00:22:24.196[main]LoggerLoad-User Clicks on Get Started Button of Stack
+[INFO ]2023-03-21 00:22:24.209[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-21 00:22:24.667[main]LoggerLoad-User click Stack - Operation Sublink
+[INFO ]2023-03-21 00:22:24.681[main]LoggerLoad-User directed to the Stack - Operation sublink
+[INFO ]2023-03-21 00:22:25.870[main]LoggerLoad-User clicks type here button in Stack - Operation in Stack Link
+[INFO ]2023-03-21 00:22:25.993[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:22:26.086[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:27.096[main]LoggerLoad-User enter python program in Stack - Operation in Stack Line
+[INFO ]2023-03-21 00:22:27.099[main]LoggerLoad-Run Python Program Succesfully at Stack - Operations in Stack Page
+[INFO ]2023-03-21 00:22:33.797[main]LoggerLoad-User is In Stack Page
+[INFO ]2023-03-21 00:22:33.809[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-21 00:22:34.151[main]LoggerLoad-User is In Stack - Implementation
+[INFO ]2023-03-21 00:22:34.159[main]LoggerLoad-User directed to implementation page of stack
+[INFO ]2023-03-21 00:22:35.227[main]LoggerLoad-User clicks type here button in Stack - Implementation
+[INFO ]2023-03-21 00:22:35.359[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:22:35.436[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:36.446[main]LoggerLoad-User enter python program in Stack Implementation
+[INFO ]2023-03-21 00:22:42.768[main]LoggerLoad-User is In Stack - Application Link
+[INFO ]2023-03-21 00:22:43.118[main]LoggerLoad-User is In Stack Page
+[INFO ]2023-03-21 00:22:43.129[main]LoggerLoad-User directed to the Stack - Data Structure Page
+[INFO ]2023-03-21 00:22:43.494[main]LoggerLoad-User Clicked Stack Page - Application Link
+[INFO ]2023-03-21 00:22:43.501[main]LoggerLoad-User directed to Application Link Page of Stack
+[INFO ]2023-03-21 00:22:44.684[main]LoggerLoad-User clicks type here button in Stack - Application Link
+[INFO ]2023-03-21 00:22:44.889[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:46.599[main]LoggerLoad-Entered Wrong Python Code in Stack - Application
+[INFO ]2023-03-21 00:22:53.662[main]LoggerLoad-User Clicking Graph Get Started Button
+[INFO ]2023-03-21 00:22:54.030[main]LoggerLoad-User Clicking Graph Link in Graph
+[INFO ]2023-03-21 00:22:54.041[main]LoggerLoad-User should redirect to Graph Page having try here button
+[INFO ]2023-03-21 00:22:55.231[main]LoggerLoad-User clicks type here button in Graph
+[INFO ]2023-03-21 00:22:55.362[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:22:55.442[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:22:56.454[main]LoggerLoad-User enter python program in Graph
+[INFO ]2023-03-21 00:22:56.459[main]LoggerLoad-Python Program Printed Successfully Graph - Graph Link
+[INFO ]2023-03-21 00:23:04.161[main]LoggerLoad-User Clicking Graph Get Started Button
+[INFO ]2023-03-21 00:23:05.303[main]LoggerLoad-User is In Graph - Graph Representation
+[INFO ]2023-03-21 00:23:05.318[main]LoggerLoad-User should redirect to Graph Representation Page having try here button
+[INFO ]2023-03-21 00:23:08.440[main]LoggerLoad-User clicks type here button in Graph
+[INFO ]2023-03-21 00:23:08.561[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:23:08.654[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:09.664[main]LoggerLoad-User enter python program in Graph - Graph Representation
+[INFO ]2023-03-21 00:23:09.667[main]LoggerLoad-Python Program Printed Successfully Graph - Representation in Python Program
+[INFO ]2023-03-21 00:23:17.513[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-21 00:23:17.986[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-21 00:23:19.020[main]LoggerLoad-User clicks type here button in Array
+[INFO ]2023-03-21 00:23:19.139[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:23:19.232[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:20.238[main]LoggerLoad-User enter python program in Array
+[INFO ]2023-03-21 00:23:20.241[main]LoggerLoad-Python Program Printed Successfully Array - Array in Python
+[INFO ]2023-03-21 00:23:26.800[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-21 00:23:27.175[main]LoggerLoad-User is In Array - Arrays Using List
+[INFO ]2023-03-21 00:23:27.185[main]LoggerLoad-User redirected to Array Using List Page in Array
+[INFO ]2023-03-21 00:23:28.379[main]LoggerLoad-User clicks type here button in Array - Arrays Using List
+[INFO ]2023-03-21 00:23:28.498[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:23:28.587[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:29.594[main]LoggerLoad-User enter python program in Array - Arrays Using List
+[INFO ]2023-03-21 00:23:29.596[main]LoggerLoad-Output of the Program displayed at Arrays - Arrays Using Lists
+[INFO ]2023-03-21 00:23:36.395[main]LoggerLoad-User Clicked Array Get Started Button
+[INFO ]2023-03-21 00:23:36.844[main]LoggerLoad- User is In Array - Arrays in Python Link
+[INFO ]2023-03-21 00:23:38.512[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:23:38.600[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:39.607[main]LoggerLoad-User enter python program in Arrays - Practice Questions
+[INFO ]2023-03-21 00:23:39.610[main]LoggerLoad-Output of the Program displayed at Arrays - Practice Question Lists
+[INFO ]2023-03-21 00:23:45.961[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:23:46.310[main]LoggerLoad-In Arrays page
+[INFO ]2023-03-21 00:23:46.744[main]LoggerLoad-In Arrays-Basic Operations in Lists page
+[INFO ]2023-03-21 00:23:48.535[main]LoggerLoad-User clicks type here button in Array - Basic Operation in Lists
+[INFO ]2023-03-21 00:23:48.743[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:49.755[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:23:49.758[main]LoggerLoad-Output of the Program displayed at Arrays - Basic Operation in Lists
+[INFO ]2023-03-21 00:23:56.335[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:23:56.754[main]LoggerLoad-In Arrays page
+[INFO ]2023-03-21 00:23:57.109[main]LoggerLoad-In Arrays-Applications of Array page
+[INFO ]2023-03-21 00:23:58.559[main]LoggerLoad-User clicks type here button in Array - Basic Application of Array
+[INFO ]2023-03-21 00:23:58.764[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:23:59.774[main]LoggerLoad-User enters valid python code
+[INFO ]2023-03-21 00:23:59.776[main]LoggerLoad-Output of the Program displayed at Arrays - Basic Application of Array
+[INFO ]2023-03-21 00:24:05.939[main]LoggerLoad-In Queue
+[INFO ]2023-03-21 00:24:07.622[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:07.714[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:09.435[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:09.499[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:11.328[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:11.388[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:13.158[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:13.221[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:14.256[main]LoggerLoad-Validate valid program in all sublinks of queue
+[INFO ]2023-03-21 00:24:14.257[main]LoggerLoad-Python Program Printed Successfully Queue
+[INFO ]2023-03-21 00:24:20.878[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:24:21.363[main]LoggerLoad-In Tree page
+[INFO ]2023-03-21 00:24:21.768[main]LoggerLoad-In Tree-Overview of Trees page
+[INFO ]2023-03-21 00:24:23.134[main]LoggerLoad-User clicks type here button in Tree - Overview Of Trees
+[INFO ]2023-03-21 00:24:23.257[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:23.344[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:24.352[main]LoggerLoad-User enter python program in Tree - Overview Of Trees
+[INFO ]2023-03-21 00:24:24.383[main]LoggerLoad-Invalid Program in Tree - Overview Of Tree Page
+[INFO ]2023-03-21 00:24:30.720[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:24:31.138[main]LoggerLoad-In Tree page
+[INFO ]2023-03-21 00:24:31.490[main]LoggerLoad-In Tree-Terminologies page
+[INFO ]2023-03-21 00:24:32.542[main]LoggerLoad-User clicks type here button in Tree - Terminologies
+[INFO ]2023-03-21 00:24:32.781[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:34.425[main]LoggerLoad-Entered Wrong Python Code in Stack - Application
+[INFO ]2023-03-21 00:24:34.426[main]LoggerLoad-Wrong Python Code Prints in Tree - Terminologies Page
+[INFO ]2023-03-21 00:24:40.440[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:24:40.911[main]LoggerLoad-In Tree page
+[INFO ]2023-03-21 00:24:41.300[main]LoggerLoad-In Tree-Types of Trees page
+[INFO ]2023-03-21 00:24:42.367[main]LoggerLoad-User clicks type here button in Tree - Types Of Trees
+[INFO ]2023-03-21 00:24:42.470[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:42.471[main]LoggerLoad-No Program runs in Tree - Types of Trees
+[INFO ]2023-03-21 00:24:48.871[main]LoggerLoad-In Data Structures page
+[INFO ]2023-03-21 00:24:49.660[main]LoggerLoad-In Tree page
+[INFO ]2023-03-21 00:24:51.383[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:51.474[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:53.775[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:53.870[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:55.960[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:56.082[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:24:58.836[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:24:58.896[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:00.910[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:00.966[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:02.967[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:03.022[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:04.954[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:05.008[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:06.974[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:07.035[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:09.488[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:09.545[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:11.490[main]LoggerLoad-Running Valid Python Code
+[INFO ]2023-03-21 00:25:11.547[main]LoggerLoad-Clicking Run Button
+[INFO ]2023-03-21 00:25:12.583[main]LoggerLoad-Validate valid program in all sublinks of Tree
+[INFO ]2023-03-21 00:25:12.590[main]LoggerLoad-Python Program Print Successfully in all of the Tree Links
