@@ -11,10 +11,10 @@ public class testRun
 	(		
 		features = 
 			{
-				//"src/test/resources/Features/TestCasesAll.feature",
+				"src/test/resources/Features/TestCasesAll.feature",
 				"src/test/resources/Features/login.feature",
-				//"src/test/resources/Features/registerExcel.feature",
-				//"src/test/resources/Features/Home.feature"	
+				"src/test/resources/Features/registerExcel.feature",
+				"src/test/resources/Features/Home.feature"	
 			},
 		plugin = {"pretty", "html:target/SystemTestReports/index.html",  
 				  "junit:target/SystemTestReports/junit/report.xml",
