@@ -102,7 +102,7 @@ public class RegisterExcel extends BaseClass
 		//if (username.equals("RandomUser"))
 		if (status.equals("invalid"))
 		{
-			Assert.assertEquals(re.printRetrievemsg(), "invalid");
+			Assert.assertEquals(re.printRetrievemsg(), expectedmessage);
 		}
 		else
 		{
